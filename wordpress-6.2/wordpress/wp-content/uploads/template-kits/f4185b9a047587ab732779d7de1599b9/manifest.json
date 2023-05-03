@@ -1,0 +1,1476 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Restaurant & Caf\u00e9",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home Restaurant",
+            "screenshot": "screenshots\/home-restaurant.jpg",
+            "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Restaurant 2",
+            "screenshot": "screenshots\/home-restaurant-2.jpg",
+            "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Restaurant 3",
+            "screenshot": "screenshots\/home-restaurant-3.jpg",
+            "source": "templates\/home-restaurant-3-7ff4aaad1900059efed604fbed9ae52c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Cafe",
+            "screenshot": "screenshots\/home-cafe.jpg",
+            "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Cafe 2",
+            "screenshot": "screenshots\/home-cafe-2.jpg",
+            "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Restaurant 1",
+            "screenshot": "screenshots\/menus-restaurant-1.jpg",
+            "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Restaurant 2",
+            "screenshot": "screenshots\/menus-restaurant-2.jpg",
+            "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Restaurant 3",
+            "screenshot": "screenshots\/menus-restaurant-3.jpg",
+            "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Cafe 1",
+            "screenshot": "screenshots\/menus-cafe-1.jpg",
+            "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus Cafe 2",
+            "screenshot": "screenshots\/menus-cafe-2.jpg",
+            "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Restaurant 1",
+            "screenshot": "screenshots\/about-restaurant-1.jpg",
+            "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Restaurant 2",
+            "screenshot": "screenshots\/about-restaurant-2.jpg",
+            "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Restaurant 3",
+            "screenshot": "screenshots\/about-restaurant-3.jpg",
+            "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Cafe 1",
+            "screenshot": "screenshots\/about-cafe-1.jpg",
+            "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Cafe 2",
+            "screenshot": "screenshots\/about-cafe-2.jpg",
+            "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation 1",
+            "screenshot": "screenshots\/reservation-1.jpg",
+            "source": "templates\/reservation-1-b77cb3c05e6a0038784fbfc3835dddcf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation 2",
+            "screenshot": "screenshots\/reservation-2.jpg",
+            "source": "templates\/reservation-2-66012d32b3fa4485984f7f607f3302fe.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-47adce9794bc08c58688bd625bb4d360.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon 2",
+            "screenshot": "screenshots\/coming-soon-2.jpg",
+            "source": "templates\/coming-soon-2-e63e327626b8fa75a1c47e5a2b18e3e2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-5d3fdda3b6d3196d1b393948e9719bde.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-ed10bd110ae7c4c28162249c39d02569.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "slider1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/slider1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                },
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/reservation-1-b77cb3c05e6a0038784fbfc3835dddcf.json",
+                    "name": "Reservation 1"
+                }
+            ],
+            "filesize": 150374,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "tex1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/tex1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                },
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/home-restaurant-3-7ff4aaad1900059efed604fbed9ae52c.json",
+                    "name": "Home Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/coming-soon-2-e63e327626b8fa75a1c47e5a2b18e3e2.json",
+                    "name": "Coming Soon 2"
+                }
+            ],
+            "filesize": 85097,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "img1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                },
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 218426,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 394064,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "slider2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/slider2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                },
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/home-restaurant-3-7ff4aaad1900059efed604fbed9ae52c.json",
+                    "name": "Home Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/coming-soon-47adce9794bc08c58688bd625bb4d360.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/contact-5d3fdda3b6d3196d1b393948e9719bde.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 274954,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "img3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                }
+            ],
+            "filesize": 184434,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                }
+            ],
+            "filesize": 131206,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                }
+            ],
+            "filesize": 343456,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "slider3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/slider3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-9d36daae4d795a260cb6f4b6b3f9a71b.json",
+                    "name": "Home Restaurant"
+                },
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/home-restaurant-3-7ff4aaad1900059efed604fbed9ae52c.json",
+                    "name": "Home Restaurant 3"
+                },
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/coming-soon-2-e63e327626b8fa75a1c47e5a2b18e3e2.json",
+                    "name": "Coming Soon 2"
+                },
+                {
+                    "source": "templates\/contact-5d3fdda3b6d3196d1b393948e9719bde.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 410983,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "rawpixel-645297-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/rawpixel-645297-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/contact-5d3fdda3b6d3196d1b393948e9719bde.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 1000442,
+            "dimensions": [
+                2500,
+                1668
+            ]
+        },
+        {
+            "filename": "img6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/reservation-1-b77cb3c05e6a0038784fbfc3835dddcf.json",
+                    "name": "Reservation 1"
+                }
+            ],
+            "filesize": 117503,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img7.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                }
+            ],
+            "filesize": 147252,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img8.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/reservation-1-b77cb3c05e6a0038784fbfc3835dddcf.json",
+                    "name": "Reservation 1"
+                }
+            ],
+            "filesize": 260076,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "gal6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/gal6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 90179,
+            "dimensions": [
+                800,
+                582
+            ]
+        },
+        {
+            "filename": "gal4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/gal4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                }
+            ],
+            "filesize": 131197,
+            "dimensions": [
+                800,
+                582
+            ]
+        },
+        {
+            "filename": "gal5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/gal5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-2-c75b411fe57f000375ab1b2668cf6e4f.json",
+                    "name": "Home Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 115499,
+            "dimensions": [
+                800,
+                582
+            ]
+        },
+        {
+            "filename": "slider5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/slider5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-3-7ff4aaad1900059efed604fbed9ae52c.json",
+                    "name": "Home Restaurant 3"
+                },
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+                    "name": "Menus Cafe 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                },
+                {
+                    "source": "templates\/coming-soon-47adce9794bc08c58688bd625bb4d360.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 847220,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "slider4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/slider4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-restaurant-3-7ff4aaad1900059efed604fbed9ae52c.json",
+                    "name": "Home Restaurant 3"
+                },
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+                    "name": "Menus Cafe 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                },
+                {
+                    "source": "templates\/reservation-1-b77cb3c05e6a0038784fbfc3835dddcf.json",
+                    "name": "Reservation 1"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/popup-ed10bd110ae7c4c28162249c39d02569.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 800680,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "about.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/about.png",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                }
+            ],
+            "filesize": 1499841,
+            "dimensions": [
+                1200,
+                1100
+            ]
+        },
+        {
+            "filename": "drink4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/drink4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                }
+            ],
+            "filesize": 82860,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "drink3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/drink3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                }
+            ],
+            "filesize": 85448,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "drink1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/drink1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                }
+            ],
+            "filesize": 103620,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "drink2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/drink2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-00062c330ef183ad0216527825d7b648.json",
+                    "name": "Home Cafe"
+                },
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                }
+            ],
+            "filesize": 71260,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "sl1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/sl1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 140696,
+            "dimensions": [
+                800,
+                533
+            ]
+        },
+        {
+            "filename": "sl2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/sl2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                },
+                {
+                    "source": "templates\/coming-soon-2-e63e327626b8fa75a1c47e5a2b18e3e2.json",
+                    "name": "Coming Soon 2"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 194166,
+            "dimensions": [
+                800,
+                533
+            ]
+        },
+        {
+            "filename": "sl3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/sl3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                },
+                {
+                    "source": "templates\/reservation-2-66012d32b3fa4485984f7f607f3302fe.json",
+                    "name": "Reservation 2"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 125896,
+            "dimensions": [
+                800,
+                533
+            ]
+        },
+        {
+            "filename": "img10.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+                    "name": "Menus Cafe 2"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 598002,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img9.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-cafe-2-154d3a380b6059c3193bb8fca62a6d73.json",
+                    "name": "Home Cafe 2"
+                },
+                {
+                    "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+                    "name": "Menus Cafe 2"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 555664,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "gal3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/gal3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                }
+            ],
+            "filesize": 167123,
+            "dimensions": [
+                800,
+                582
+            ]
+        },
+        {
+            "filename": "gal8.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/gal8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 289942,
+            "dimensions": [
+                800,
+                1164
+            ]
+        },
+        {
+            "filename": "gal1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/gal1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 78269,
+            "dimensions": [
+                800,
+                582
+            ]
+        },
+        {
+            "filename": "gal2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/gal2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-restaurant-1-5314b2d66f62ca804736a813971cba04.json",
+                    "name": "Menus Restaurant 1"
+                },
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-restaurant-3-3bf379fc9c0405d3b012326b6387723b.json",
+                    "name": "Menus Restaurant 3"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 181182,
+            "dimensions": [
+                800,
+                582
+            ]
+        },
+        {
+            "filename": "slider6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/slider6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-restaurant-2-41439abe1fa3caef7df7b9ff00e3a327.json",
+                    "name": "Menus Restaurant 2"
+                },
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/reservation-2-66012d32b3fa4485984f7f607f3302fe.json",
+                    "name": "Reservation 2"
+                },
+                {
+                    "source": "templates\/coming-soon-2-e63e327626b8fa75a1c47e5a2b18e3e2.json",
+                    "name": "Coming Soon 2"
+                }
+            ],
+            "filesize": 672212,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "img11.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-cafe-1-e91298df8bbbe7e24786fc59f7f60738.json",
+                    "name": "Menus Cafe 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                }
+            ],
+            "filesize": 321607,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img12.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+                    "name": "Menus Cafe 2"
+                },
+                {
+                    "source": "templates\/contact-2-9e77c9b35d882a7a181be74e9c339360.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 528344,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img13.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+                    "name": "Menus Cafe 2"
+                }
+            ],
+            "filesize": 404529,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "img14.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/img14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus-cafe-2-459623c99696fc57699f99919c54e59b.json",
+                    "name": "Menus Cafe 2"
+                }
+            ],
+            "filesize": 220323,
+            "dimensions": [
+                800,
+                1400
+            ]
+        },
+        {
+            "filename": "ava1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/ava1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/about-cafe-2-1749439fa59fa85bf8b12d32d6085bec.json",
+                    "name": "About Cafe 2"
+                }
+            ],
+            "filesize": 85823,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                }
+            ],
+            "filesize": 201111,
+            "dimensions": [
+                800,
+                1164
+            ]
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-restaurant-1-1ddd84b86fbd267aa24b5552fc2d3a0f.json",
+                    "name": "About Restaurant 1"
+                },
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                }
+            ],
+            "filesize": 267846,
+            "dimensions": [
+                800,
+                1164
+            ]
+        },
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-4\/wp-content\/uploads\/sites\/7\/2018\/05\/team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-restaurant-2-cdadc03371d85719458a1f9fc9c2cfc8.json",
+                    "name": "About Restaurant 2"
+                },
+                {
+                    "source": "templates\/about-restaurant-3-0d0772be90137995350d5936bc76a0dc.json",
+                    "name": "About Restaurant 3"
+                },
+                {
+                    "source": "templates\/about-cafe-1-a5c6f6bd2302f7f88f987ff64955e700.json",
+                    "name": "About Cafe 1"
+                }
+            ],
+            "filesize": 276359,
+            "dimensions": [
+                800,
+                1164
+            ]
+        }
+    ]
+}

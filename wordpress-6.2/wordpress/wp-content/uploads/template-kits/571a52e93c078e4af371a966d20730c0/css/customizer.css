@@ -1,0 +1,17 @@
+/* Align columns towards edge when using fluid layout */
+
+
+/* Remove top margin from image box title */
+.envato-kit-165-top-0 .elementor-image-box-title,
+.envato-kit-165-top-0 .elementor-icon-box-title,
+.envato-kit-165-top-0 .elementor-text-editor p {
+	margin-top: 0;
+}
+
+/* Keeps slide aligned to the center axis instead of flushing out when using a full width slider */
+@media only screen and (min-width: 1024px) {
+	.envato-kit-165-slide-align .elementor-slide-content {
+		margin-left: 10%;
+		margin-right: auto;
+	}
+}

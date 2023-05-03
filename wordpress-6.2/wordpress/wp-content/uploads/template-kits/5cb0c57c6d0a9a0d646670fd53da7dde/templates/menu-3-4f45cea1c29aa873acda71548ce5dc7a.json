@@ -1,0 +1,2114 @@
+{
+    "version": "0.4",
+    "title": "Menu 3 &#8211; Pro",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": true,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "38d07bef",
+            "settings": {
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 100
+                },
+                "custom_height_tablet": {
+                    "unit": "vh",
+                    "size": 60
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/brian-chan-12169-unsplash-min.jpg",
+                    "id": 79
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_attachment": "fixed",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#f24a37",
+                "background_color": "#f25a46",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "overlay_blend_mode": "lighten"
+            },
+            "elements": [
+                {
+                    "id": "62080b8c",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "381aaa0",
+                            "settings": {
+                                "title": "Menu",
+                                "header_size": "h1",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "typography_text_transform": "uppercase",
+                                "_animation": "fadeIn",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 70
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d61aadb",
+                            "settings": {
+                                "title": "Mouthwatering perfection starts with two 100% pure beef patties<br> and best sauce sandwiched between a sesame seed bun. ",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1eefa99",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "51614c83",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "50f06c4f",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-4-min.png",
+                                    "id": 57
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5f46a4c3",
+                            "settings": {
+                                "title": "Beef Burgers",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6d4d0cbb",
+                            "settings": {
+                                "title": "Eu iusto dolorum pro, facer oportere duo ne. Cum ei commune instructior. Ne dicat qualisque ullamcorper ius.",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#757575",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4025dd20",
+                            "settings": {
+                                "text": "Show More",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": ""
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "button_text_color": "#f24835",
+                                "background_color": "rgba(125,31,31,0)",
+                                "hover_color": "#ffffff",
+                                "button_background_hover_color": "#f24835",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#f24835",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "08",
+                                    "right": "14",
+                                    "bottom": "6",
+                                    "left": "14",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "20a248c8",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "61b09276",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-5-min.png",
+                                    "id": 59
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7de21ac0",
+                            "settings": {
+                                "title": "Chicken Burgers",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7db2d82b",
+                            "settings": {
+                                "title": "Eu iusto dolorum pro, facer oportere duo ne. Cum ei commune instructior. Ne dicat qualisque ullamcorper ius.",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#757575",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "142d247b",
+                            "settings": {
+                                "text": "Show More",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": ""
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "button_text_color": "#f24835",
+                                "background_color": "rgba(125,31,31,0)",
+                                "hover_color": "#ffffff",
+                                "button_background_hover_color": "#f24835",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#f24835",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "08",
+                                    "right": "14",
+                                    "bottom": "6",
+                                    "left": "14",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                },
+                {
+                    "id": "7a66b621",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "4203fc12",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-6-min.png",
+                                    "id": 60
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "336dbaa7",
+                            "settings": {
+                                "title": "Breakfast Mood\t",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "18b02b77",
+                            "settings": {
+                                "title": "Eu iusto dolorum pro, facer oportere duo ne. Cum ei commune instructior. Ne dicat qualisque ullamcorper ius.",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#757575",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7621e21d",
+                            "settings": {
+                                "text": "Show More",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": ""
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "button_text_color": "#f24835",
+                                "background_color": "rgba(125,31,31,0)",
+                                "hover_color": "#ffffff",
+                                "button_background_hover_color": "#f24835",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#f24835",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "08",
+                                    "right": "14",
+                                    "bottom": "6",
+                                    "left": "14",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                }
+            ],
+            "isInner": true,
+            "elType": "section"
+        },
+        {
+            "id": "1abadfa6",
+            "settings": {
+                "structure": "21",
+                "background_background": "classic",
+                "background_color": "#142130",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "34b02be9",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "c560369",
+                            "settings": {
+                                "title": "Salads",
+                                "header_size": "h4",
+                                "align": "left",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "608d5ea1",
+                            "settings": {
+                                "title": "Lorem ipsum dolor sit amet, vim no nobis comprehensam, te vero liberavisse comprehensam nec. Dicunt molestie pri ei, mei te erat fastidii.",
+                                "header_size": "h4",
+                                "align": "left",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "65b947df",
+                            "settings": {
+                                "price_list": [
+                                    {
+                                        "title": "Broccoli Salad",
+                                        "item_description": "Lorem ipsum dolor sit amet, vim no nobis comprehensam.",
+                                        "price": "$6",
+                                        "link": {
+                                            "url": "#"
+                                        },
+                                        "_id": "ddd9eae",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-3.png",
+                                            "id": 51
+                                        }
+                                    },
+                                    {
+                                        "title": "Potato",
+                                        "item_description": "Lorem ipsum dolor sit amet, vim no nobis comprehensam.",
+                                        "price": "$6",
+                                        "link": {
+                                            "url": "#"
+                                        },
+                                        "_id": "ba73332",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/thibaut-burckel-750962-unsplash-min.jpg",
+                                            "id": 76
+                                        }
+                                    },
+                                    {
+                                        "title": "Indian toast",
+                                        "item_description": "Lorem ipsum dolor sit amet, vim no nobis comprehensam.",
+                                        "price": "$6",
+                                        "link": {
+                                            "url": "#"
+                                        },
+                                        "_id": "9ae3b87",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/alison-marras-361028-unsplash-min.jpg",
+                                            "id": 98
+                                        }
+                                    }
+                                ],
+                                "heading_color": "#f24835",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Yanone Kaffeesatz",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "description_color": "#ffffff",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Roboto",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "description_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "image_size_size": "custom",
+                                "image_size_custom_dimension": {
+                                    "width": "80",
+                                    "height": "80"
+                                },
+                                "border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "row_gap": {
+                                    "unit": "px",
+                                    "size": 32
+                                },
+                                "_animation": "fadeIn",
+                                "price_color": "#f24835",
+                                "price_typography_typography": "custom",
+                                "price_typography_font_family": "Yanone Kaffeesatz",
+                                "price_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4114d229",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "7b409fb",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-3.png",
+                                    "id": 51
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "254e7634",
+            "settings": {
+                "stretch_section": "section-stretched",
+                "background_background": "classic",
+                "background_color": "#ffffff",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7b9d3bb7",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "345657b2",
+                            "settings": {
+                                "icon_space": {
+                                    "unit": "px",
+                                    "size": 6
+                                },
+                                "stars_color": "#f9e168",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "star-rating",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1569c224",
+                            "settings": {
+                                "slides": [
+                                    {
+                                        "content": "I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "name": "John Doe",
+                                        "title": "CEO",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/photo-1.jpg",
+                                            "id": 121
+                                        },
+                                        "_id": "0fc67ca"
+                                    },
+                                    {
+                                        "content": "I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "name": "John Doe",
+                                        "title": "CEO",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png"
+                                        },
+                                        "_id": "0a0aedb"
+                                    },
+                                    {
+                                        "content": "I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                        "name": "John Doe",
+                                        "title": "CEO",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png"
+                                        },
+                                        "_id": "5aea9eb"
+                                    }
+                                ],
+                                "layout": "image_above",
+                                "slides_per_view": "1",
+                                "slides_to_scroll": "1",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 65
+                                },
+                                "show_arrows": "",
+                                "content_color": "#000000",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Roboto",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "content_typography_font_style": "normal",
+                                "content_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7
+                                },
+                                "name_color": "#000000",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Yanone Kaffeesatz",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 21
+                                },
+                                "name_typography_text_transform": "uppercase",
+                                "name_typography_font_style": "normal",
+                                "name_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.1000000000000001
+                                },
+                                "title_color": "#f24835",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Roboto",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13
+                                },
+                                "title_typography_font_style": "normal"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "144b13bf",
+            "settings": {
+                "structure": "22",
+                "background_background": "classic",
+                "background_color": "#142130",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2e70e0da",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "7a7b33da",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-6-min.png",
+                                    "id": 60
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "dc75f9e",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "1483e644",
+                            "settings": {
+                                "title": "Snacks",
+                                "header_size": "h4",
+                                "align": "left",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4dc69f8b",
+                            "settings": {
+                                "title": "Lorem ipsum dolor sit amet, vim no nobis comprehensam, te vero liberavisse comprehensam nec. Dicunt molestie pri ei, mei te erat fastidii.",
+                                "header_size": "h4",
+                                "align": "left",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_font_weight": "400",
+                                "typography_text_transform": "capitalize",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6cff0d48",
+                            "settings": {
+                                "price_list": [
+                                    {
+                                        "title": "Shawarma",
+                                        "item_description": "Lorem ipsum dolor sit amet, vim no nobis comprehensam.",
+                                        "price": "$6",
+                                        "link": {
+                                            "url": "#"
+                                        },
+                                        "_id": "ddd9eae",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-8-min.png",
+                                            "id": 62
+                                        }
+                                    },
+                                    {
+                                        "title": "Potato",
+                                        "item_description": "Lorem ipsum dolor sit amet, vim no nobis comprehensam.",
+                                        "price": "$6",
+                                        "link": {
+                                            "url": "#"
+                                        },
+                                        "_id": "ba73332",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/stephanie-mccabe-92136-unsplash-min.jpg",
+                                            "id": 74
+                                        }
+                                    },
+                                    {
+                                        "title": "Indian toast",
+                                        "item_description": "Lorem ipsum dolor sit amet, vim no nobis comprehensam.",
+                                        "price": "$6",
+                                        "link": {
+                                            "url": "#"
+                                        },
+                                        "_id": "9ae3b87",
+                                        "image": {
+                                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/food-6-min.png",
+                                            "id": 60
+                                        }
+                                    }
+                                ],
+                                "heading_color": "#f21616",
+                                "heading_typography_typography": "custom",
+                                "heading_typography_font_family": "Yanone Kaffeesatz",
+                                "heading_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "description_color": "#ffffff",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Roboto",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "description_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "image_size_size": "custom",
+                                "image_size_custom_dimension": {
+                                    "width": "80",
+                                    "height": "80"
+                                },
+                                "border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "row_gap": {
+                                    "unit": "px",
+                                    "size": 32
+                                },
+                                "_animation": "fadeIn",
+                                "price_color": "#f21616",
+                                "price_typography_typography": "custom",
+                                "price_typography_font_family": "Yanone Kaffeesatz",
+                                "price_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "price-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "701e3df0",
+            "settings": {
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 100
+                },
+                "custom_height_tablet": {
+                    "unit": "vh",
+                    "size": 60
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/pexels-photo-533347.jpeg",
+                    "id": 226
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "structure": "20",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#f24835",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "overlay_blend_mode": "lighten"
+            },
+            "elements": [
+                {
+                    "id": "4e28414b",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size_tablet": 100,
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/quentin-lagache-76503-unsplash-min.jpg",
+                            "id": 73
+                        },
+                        "background_size": "cover",
+                        "background_overlay_background": "classic",
+                        "background_overlay_color": "#142130",
+                        "padding": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "80",
+                            "bottom": "80",
+                            "left": "80",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "30",
+                            "bottom": "50",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "background_attachment": "fixed",
+                        "background_position": "center right"
+                    },
+                    "elements": [
+                        {
+                            "id": "4b904f7c",
+                            "settings": {
+                                "text": "Special offer",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": ""
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "button_text_color": "#ffffff",
+                                "background_color": "rgba(125,31,31,0)",
+                                "button_background_hover_color": "#f21616",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#f24835",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "08",
+                                    "right": "14",
+                                    "bottom": "6",
+                                    "left": "14",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "67be1d4",
+                            "settings": {
+                                "title": "Our new <br>seasonal menu",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 60
+                                },
+                                "typography_text_transform": "uppercase",
+                                "_animation": "fadeIn",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1000f61d",
+                            "settings": {
+                                "title": "Mouthwatering perfection starts with two 100% pure beef patties and best sauce sandwiched between a sesame seed bun. ",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "401982a2",
+                            "settings": {
+                                "text": "See now",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "button_text_color": "#ffffff",
+                                "background_color": "#f24835",
+                                "button_background_hover_color": "#f24835",
+                                "hover_animation": "grow",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "40",
+                                    "bottom": "20",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7f92a813",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50.262999999999998,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center",
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "background_background": "classic",
+                        "background_position": "center center",
+                        "background_attachment": "fixed",
+                        "background_size": "cover",
+                        "background_overlay_color": "#000000",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.20999999999999999
+                        },
+                        "border_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "border_color": "#f21616",
+                        "margin": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "background_color": "#f24835",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "80",
+                            "right": "40",
+                            "bottom": "80",
+                            "left": "40",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3fabc69",
+                            "settings": {
+                                "title": "20% ",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 120
+                                },
+                                "typography_text_transform": "uppercase",
+                                "_animation": "fadeIn",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6980db3c",
+                            "settings": {
+                                "title": "Student discount",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_text_transform": "uppercase",
+                                "_animation": "fadeIn",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "header_size": "h4"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7ce31252",
+                            "settings": {
+                                "title": "Mouthwatering perfection starts with two 100% pure beef patties and best sauce sandwiched between a sesame seed bun. ",
+                                "header_size": "h4",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5120c415",
+                            "settings": {
+                                "text": "Use Now",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "button_text_color": "#ffffff",
+                                "background_color": "rgba(255,255,255,0)",
+                                "button_background_hover_color": "#ffffff",
+                                "hover_animation": "grow",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "40",
+                                    "bottom": "20",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "hover_color": "#f21616",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                },
+                                "border_color": "#ffffff"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1b935e19",
+            "settings": {
+                "structure": "20",
+                "border_width": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "1",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "border_color": "#eeeeee",
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "34973660",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4f8e0338",
+                            "settings": {
+                                "title": "Stay Connected",
+                                "header_size": "h4",
+                                "align": "left",
+                                "align_tablet": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "479b1743",
+                            "settings": {
+                                "title": "Lorem ipsum dolor sit amet, vim no nobis comprehensam, te vero liberavisse comprehensam nec. Dicunt molestie pri ei, mei te erat fastidii.",
+                                "header_size": "h4",
+                                "align": "left",
+                                "align_tablet": "center",
+                                "title_color": "#757575",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "fb1e2bf",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social": "fa fa-facebook",
+                                        "_id": "d8e3c37",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        }
+                                    },
+                                    {
+                                        "social": "fa fa-twitter",
+                                        "_id": "5e8818d",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        }
+                                    },
+                                    {
+                                        "social": "fa fa-google-plus",
+                                        "_id": "903d7b6",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        }
+                                    }
+                                ],
+                                "shape": "circle",
+                                "align": "left",
+                                "align_tablet": "center",
+                                "icon_color": "custom",
+                                "icon_primary_color": "#f24835",
+                                "icon_secondary_color": "#ffffff",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "icon_padding": {
+                                    "unit": "em",
+                                    "size": 0.69999999999999996
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "46870932",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1d8b0bad",
+                            "settings": {
+                                "title": "Get our App",
+                                "header_size": "h5",
+                                "align": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Yanone Kaffeesatz",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "08",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "59d255db",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6f86c0fe",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "17a3bf9d",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/app-store-icon.jpg",
+                                                    "id": 46
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "120",
+                                                    "height": ""
+                                                },
+                                                "align": "right",
+                                                "link_to": "custom",
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": ""
+                                                },
+                                                "_animation": "fadeIn",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1f47431",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "334d2d7b",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/wp.envatoextensions.com\/kit-127\/wp-content\/uploads\/sites\/130\/2018\/10\/google-play-icon.jpg",
+                                                    "id": 45
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "120",
+                                                    "height": ""
+                                                },
+                                                "align": "left",
+                                                "link_to": "custom",
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": ""
+                                                },
+                                                "_animation": "fadeIn",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

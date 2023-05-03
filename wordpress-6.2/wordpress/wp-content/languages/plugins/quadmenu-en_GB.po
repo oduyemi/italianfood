@@ -1,0 +1,3362 @@
+# Translation of Plugins - WordPress Mega Menu &#8211; QuadMenu - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - WordPress Mega Menu &#8211; QuadMenu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-12 15:11:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - WordPress Mega Menu &#8211; QuadMenu - Stable (latest release)\n"
+
+#: lib/redux/rgba/field_rgba.php:65
+msgid "Color value"
+msgstr "Colour value"
+
+#: lib/redux/rgba/field_rgba.php:63
+msgid "Select default color"
+msgstr "Select default colour"
+
+#: lib/redux/rgba/field_rgba.php:61
+msgid "Clear color"
+msgstr "Clear colour"
+
+#: lib/redux/rgba/field_rgba.php:60
+msgid "Clear"
+msgstr "Clear"
+
+#: includes/suggestions.php:126
+msgctxt "Plugin Installer"
+msgid "Favorites"
+msgstr "Favourites"
+
+#: includes/suggestions.php:125
+msgctxt "Plugin Installer"
+msgid "Recommended"
+msgstr "Recommended"
+
+#: includes/suggestions.php:124
+msgctxt "Plugin Installer"
+msgid "Popular"
+msgstr "Popular"
+
+#: includes/suggestions.php:123
+msgctxt "Plugin Installer"
+msgid "Featured"
+msgstr "Featured"
+
+#: includes/suggestions.php:121
+msgctxt "Plugin Installer"
+msgid "Beta Testing"
+msgstr "Beta Testing"
+
+#: includes/suggestions.php:118
+msgid "Search Results"
+msgstr "Search Results"
+
+#: includes/panel/suggestions.php:12
+msgid "Suggestions"
+msgstr "Suggestions"
+
+#. Author of the plugin
+#: includes/panel/pages/parts/header.php:26 includes/quadlayers/widget.php:76
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#: includes/panel/pages/parts/header.php:8
+msgid "Purchase"
+msgstr "Purchase"
+
+#: includes/panel/system.php:15
+msgid "System"
+msgstr "System"
+
+#: includes/panel/pages/parts/header.php:5
+msgid "Hello we're QuadLayers! We will do our absolute best to support you and fix all the issues."
+msgstr "Hello, we're QuadLayers! We will do our absolute best to support you and fix all the issues."
+
+#: lib/ReduxCore/inc/tracking.php:163
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: lib/ReduxCore/inc/tracking.php:159
+msgid "Email Address"
+msgstr "Email Address"
+
+#: lib/ReduxCore/inc/tracking.php:156
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+
+#: lib/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: lib/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr "donation"
+
+#: lib/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr "leave us a favourable review on WordPress.org"
+
+#: lib/ReduxCore/inc/tracking.php:155
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+
+#: lib/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr "Like Redux?"
+
+#: lib/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr "extensions directory"
+
+#: lib/ReduxCore/inc/tracking.php:154
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
+msgstr "Did you know we have extensions, which greatly enhance the features of Redux? Visit our %1$s to learn more!"
+
+#: lib/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr "Show Object in JavaScript Console Object"
+
+#: lib/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: lib/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr "Options Object"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr "Copy Export URL"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr "Download Data File"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr "Copy Data"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr "Export Options"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr "WARNING! This will overwrite all existing option values, please proceed with caution!"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr "Input the URL to another sites options set and hit Import to load the options from that site."
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr "Input your backup file below and hit Import to restore your sites options from a backup."
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr "Import from URL"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr "Import from File"
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr "Import Options"
+
+#: lib/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr "Press return or enter to expand"
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr "Press return or enter to open"
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr "Help"
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr "Back"
+
+#. translators: %s is the site/panel title in the Customizer
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+msgid "You are customizing %s"
+msgstr "You are customising %s"
+
+#: lib/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr "Press return or enter to open this panel"
+
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:726
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:725
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "Are you sure? Resetting will lose all custom values."
+
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:724
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "You have changes that are not saved. Would you like to save them now?"
+
+#: lib/ReduxCore/inc/class.redux_helpers.php:657
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+
+#: lib/ReduxCore/inc/class.redux_filesystem.php:50
+#: lib/ReduxCore/inc/class.redux_filesystem.php:289
+msgid "We were unable to modify required files. Please ensure that <code>%1s</code> has the proper read-write permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</a>."
+msgstr "We were unable to modify required files. Please ensure that <code>%1s</code> has the proper read-write permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</a>."
+
+#: lib/ReduxCore/inc/class.redux_filesystem.php:50
+#: lib/ReduxCore/inc/class.redux_filesystem.php:289
+msgid "File Permission Issues"
+msgstr "File Permission Issues"
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:115
+msgid "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not installed or not activated and thus, some controls may not render properly.  Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not installed or not activated and thus, some controls may not render properly. Please ensure that it is installed and <a href=\"%s\">activated</a>"
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:79
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr "%s CDN unavailable. Some controls may not render properly."
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:79
+msgid "Redux Framework Warning"
+msgstr "Redux Framework Warning"
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:76
+msgid "If you are developing offline, please download and install the <a href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our CDN and avoid this warning"
+msgstr "If you are developing offline, please download and install the <a href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our CDN and avoid this warning"
+
+#: lib/ReduxCore/inc/class.redux_cdn.php:74
+msgid "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+msgstr "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+
+#: lib/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr "Import"
+
+#: includes/quadlayers/notices.php:87
+msgid "Report a bug"
+msgstr "Report a bug"
+
+#: includes/panel/welcome.php:16
+msgid "Welcome"
+msgstr "Welcome"
+
+#: includes/quadlayers/notices.php:84
+msgid "Yes, of course!"
+msgstr "Yes, of course!"
+
+#: includes/quadlayers/notices.php:79
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "Hello! Thank you for choosing the %s plugin!"
+
+#: lib/ReduxCore/core/enqueue.php:484
+msgid "Your current options will be replaced with the values of this import. Would you like to proceed?"
+msgstr "Your current options will be replaced with the values of this import. Would you like to proceed?"
+
+#: includes/options.php:1164
+msgid "Button border radius."
+msgstr "Button border radius."
+
+#: includes/options.php:1139 includes/options.php:1150
+msgid "Pick a color for the navbar button on mousehover."
+msgstr "Pick a colour for the navbar button on mouse-hover."
+
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:84
+msgid "Click here to create new theme"
+msgstr "Click here to create new theme"
+
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:84
+msgid "Select a the theme that should be used in the menu"
+msgstr "Select a the theme that should be used in the menu"
+
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:75
+msgid "Click here to create new menu"
+msgstr "Click here to create new menu"
+
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:75
+msgid "Select a menu that should be used in the module"
+msgstr "Select a menu that should be used in the module"
+
+#: includes/panel/pages/welcome.php:46
+msgid "Join Community"
+msgstr "Join Community"
+
+#: includes/options.php:310
+msgid "Copy the generated PHP function code and paste it into the appropriate template in your theme."
+msgstr "Copy the generated PHP function code and paste it into the appropriate template in your theme."
+
+#: includes/options.php:828
+msgid "Upload the navbar logo image."
+msgstr "Upload the navbar logo image."
+
+#: includes/options.php:827
+msgid "Image"
+msgstr "Image"
+
+#: includes/options.php:815
+msgid "Set navbar logo url."
+msgstr "Set navbar logo URL."
+
+#: includes/panel/system.php:237 includes/panel/welcome.php:238
+msgid "Can't compile stylesheets"
+msgstr "Can't compile stylesheets"
+
+#: includes/panel/system.php:114 includes/panel/welcome.php:115
+msgid "Your Redux version is outdated: "
+msgstr "Your Redux version is outdated: "
+
+#: includes/3rd/elementor/module.php:84
+msgid "Go to the <a href=\"%s\" target=\"_blank\">QuadMenu Options</a> to manage your menu themes."
+msgstr "Go to the <a href=\"%s\" target=\"_blank\">QuadMenu Options</a> to manage your menu themes."
+
+#: includes/3rd/elementor/module.php:59
+msgid "There are no menus in your site.<br>Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr "There are no menus in your site.<br>Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+
+#: includes/3rd/elementor/module.php:52
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+msgstr "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+
+#: includes/3rd/beaver/module.php:166 includes/3rd/beaver/module.php:178
+#: includes/3rd/beaver/module.php:202 includes/3rd/beaver/module.php:212
+#: includes/3rd/beaver/module.php:279 includes/3rd/elementor/module.php:152
+#: includes/3rd/elementor/module.php:164 includes/3rd/elementor/module.php:186
+#: includes/3rd/elementor/module.php:196 includes/3rd/elementor/module.php:255
+msgid "No"
+msgstr "No"
+
+#: includes/3rd/beaver/module.php:165 includes/3rd/beaver/module.php:177
+#: includes/3rd/beaver/module.php:201 includes/3rd/beaver/module.php:211
+#: includes/3rd/beaver/module.php:278 includes/3rd/elementor/module.php:151
+#: includes/3rd/elementor/module.php:163 includes/3rd/elementor/module.php:185
+#: includes/3rd/elementor/module.php:195 includes/3rd/elementor/module.php:254
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/3rd/beaver/module.php:56
+msgid "No Menus Found"
+msgstr "No Menus Found"
+
+#: includes/3rd/beaver/module.php:39
+msgid "Select a WordPress menu that you created in the admin under Appearance > Menus."
+msgstr "Select a WordPress menu that you created in the admin under Appearance > Menus."
+
+#: includes/3rd/beaver/module.php:13
+msgid "Actions"
+msgstr "Actions"
+
+#: includes/3rd/beaver/module.php:12
+msgid "Renders a WordPress menu."
+msgstr "Renders a WordPress menu."
+
+#: includes/3rd/beaver/module.php:205 includes/3rd/elementor/module.php:189
+#: includes/options.php:578
+msgid "This is a beta function, please test it carefully."
+msgstr "This is a beta function, please test it carefully."
+
+#: includes/options.php:576
+msgid "Defer images load until they are required."
+msgstr "Defer images load until they are required."
+
+#: includes/3rd/beaver/module.php:199 includes/3rd/elementor/module.php:183
+#: includes/options.php:575
+msgid "Lazyload"
+msgstr "Lazyload"
+
+#: includes/configuration.php:428
+msgid "Boxed dropdown"
+msgstr "Boxed dropdown"
+
+#: includes/configuration.php:423
+msgid "Dropdown Width"
+msgstr "Dropdown Width"
+
+#: lib/redux/animation/field_animation.php:103
+#: lib/redux/animation/field_animation.php:105
+msgid "speed"
+msgstr "speed"
+
+#: lib/redux/animation/field_animation.php:84
+#: lib/redux/animation/field_animation.php:86
+msgid "action"
+msgstr "action"
+
+#: lib/redux/animation/field_animation.php:65
+#: lib/redux/animation/field_animation.php:67
+msgid "options"
+msgstr "options"
+
+#: includes/widget.php:20
+msgid "A widget that displays the menu in the sidebar."
+msgstr "A widget that displays the menu in the sidebar."
+
+#: includes/options.php:2123 includes/options.php:2155
+#: includes/options.php:2187 includes/options.php:2217
+msgid "Select the animation for the menu links."
+msgstr "Select the animation for the menu links."
+
+#: includes/options.php:2101
+msgid "Flip"
+msgstr "Flip"
+
+#: includes/options.php:2099
+msgid "Left to right"
+msgstr "Left to right"
+
+#: includes/options.php:2098
+msgid "Right to left"
+msgstr "Right to left"
+
+#: includes/options.php:2062
+msgid "Select the animation for the cart bubble."
+msgstr "Select the animation for the Basket bubble."
+
+#: includes/options.php:2030
+msgid "Select the animation for the links badges."
+msgstr "Select the animation for the links badges."
+
+#: includes/options.php:1998
+msgid "Select the animation for the links icons."
+msgstr "Select the animation for the links icons."
+
+#: includes/options.php:1966
+msgid "Select the animation for the link subtitle."
+msgstr "Select the animation for the link subtitle."
+
+#: includes/options.php:1947 includes/options.php:1979
+#: includes/options.php:2011 includes/options.php:2043
+#: includes/options.php:2136 includes/options.php:2168
+#: includes/options.php:2200 includes/options.php:2232
+msgid "Loop"
+msgstr "Loop"
+
+#: includes/options.php:1945 includes/options.php:1977
+#: includes/options.php:2009 includes/options.php:2041
+#: includes/options.php:2134 includes/options.php:2166
+#: includes/options.php:2198 includes/options.php:2230
+msgid "Load"
+msgstr "Load"
+
+#: includes/options.php:1942 includes/options.php:1974
+#: includes/options.php:2006 includes/options.php:2038
+#: includes/options.php:2070 includes/options.php:2131
+#: includes/options.php:2163 includes/options.php:2195
+#: includes/options.php:2227
+msgid "Wobble"
+msgstr "Wobble"
+
+#: includes/options.php:1941 includes/options.php:1973
+#: includes/options.php:2005 includes/options.php:2037
+#: includes/options.php:2069 includes/options.php:2130
+#: includes/options.php:2162 includes/options.php:2194
+#: includes/options.php:2226
+msgid "Tada"
+msgstr "Tada"
+
+#: includes/options.php:1940 includes/options.php:1972
+#: includes/options.php:2004 includes/options.php:2036
+#: includes/options.php:2068 includes/options.php:2129
+#: includes/options.php:2161 includes/options.php:2193
+#: includes/options.php:2225
+msgid "Swing"
+msgstr "Swing"
+
+#: includes/options.php:1939 includes/options.php:1971
+#: includes/options.php:2003 includes/options.php:2035
+#: includes/options.php:2067 includes/options.php:2128
+#: includes/options.php:2160 includes/options.php:2192
+#: includes/options.php:2224
+msgid "Rubber"
+msgstr "Rubber"
+
+#: includes/options.php:1938 includes/options.php:1970
+#: includes/options.php:2002 includes/options.php:2034
+#: includes/options.php:2066 includes/options.php:2127
+#: includes/options.php:2159 includes/options.php:2191
+#: includes/options.php:2223
+msgid "Pulse"
+msgstr "Pulse"
+
+#: includes/options.php:1937 includes/options.php:1969
+#: includes/options.php:2001 includes/options.php:2033
+#: includes/options.php:2065 includes/options.php:2126
+#: includes/options.php:2158 includes/options.php:2190
+#: includes/options.php:2222
+msgid "Bounce"
+msgstr "Bounce"
+
+#: includes/options.php:1934
+msgid "Select the animation for the link text."
+msgstr "Select the animation for the link text."
+
+#: includes/options.php:1917
+msgid "Ripple"
+msgstr "Ripple"
+
+#: includes/options.php:1915
+msgid "Add an amazing effect for the hover event."
+msgstr "Add an amazing effect for the hover event."
+
+#: includes/options.php:212
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/configuration.php:327
+msgid "Enter item placeholder"
+msgstr "Enter item placeholder"
+
+#: includes/configuration.php:326
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: includes/options.php:1393
+msgid "Pick a border color for the mobile menu links border."
+msgstr "Pick a border colour for the mobile menu links border."
+
+#: includes/panel/pages/premium.php:96
+msgid "Agency"
+msgstr "Agency"
+
+#: includes/panel/pages/premium.php:93 includes/panel/pages/premium.php:100
+#: includes/panel/pages/premium.php:107
+msgid "Purchase Now"
+msgstr "Purchase Now"
+
+#: includes/panel/pages/premium.php:91 includes/panel/pages/premium.php:98
+#: includes/panel/pages/premium.php:105
+msgid "The single or personal license allows you to install %s in one site, receive the premium support for six month and lifetime updates."
+msgstr "The single or personal licence allows you to install %s in one site, receive the premium support for six month and lifetime updates."
+
+#: includes/panel/pages/premium.php:89
+msgid "Personal"
+msgstr "Personal"
+
+#: includes/panel/pages/premium.php:79
+msgid "The social icons element allow you to include a list of social networks icons with links. There is a mode called toggle that shows an icon in the main menu that toggles the list when the user makes a click and other mode called embed that displays the entire icons list."
+msgstr "The social icons element allow you to include a list of social networks icons with links. There is a mode called toggle that shows an icon in the main menu that toggles the list when the user makes a click and other mode called embed that displays the entire icons list."
+
+#: includes/panel/pages/premium.php:68
+msgid "The user login element provides your menu with a <a href=\"%s\">login and register form</a> that is displayed in a drop-down. Recently we've improved this feature to include a drop-down menu for logged in users where you can display any link and a quick access to the user account."
+msgstr "The user login element provides your menu with a <a href=\"%s\">login and register form</a> that is displayed in a drop-down. Recently we've improved this feature to include a drop-down menu for logged in users where you can display any link and a quick access to the user account."
+
+#: includes/panel/pages/premium.php:66
+msgid "Login"
+msgstr "Login"
+
+#: includes/panel/pages/premium.php:51
+msgid "This element is also available for <a href=\"%s\">categories and archives items</a> and lets you create a carousel of the latest's post, products, pages and any post type available in your site."
+msgstr "This element is also available for <a href=\"%s\">categories and archives items</a> and lets you create a carousel of the latest's post, products, pages and any post type available in your site."
+
+#: includes/panel/pages/premium.php:48
+msgid "Our carousel element allows you to create a <a href=\"%s\">carousel mega menu</a> where you can include widgets or any kind of content available in your menu dashboard."
+msgstr "Our carousel element allows you to create a <a href=\"%s\">carousel mega menu</a> where you can include widgets or any kind of content available in your menu dashboard."
+
+#: includes/panel/pages/premium.php:46
+msgid "Carousel"
+msgstr "Carousel"
+
+#: includes/panel/pages/premium.php:37
+msgid "This element is allows you to set a custom background for the whole dropdown and handle the title, icons, badges and subtitles on each tab."
+msgstr "This element is allows you to set a custom background for the whole dropdown and handle the title, icons, badges and subtitles on each tab."
+
+#: includes/panel/pages/premium.php:34
+msgid "With the tabs, you can <a href=\"%s\">create a tab mega menu</a> where you can include widgets or any kind of content available in your menu dashboard."
+msgstr "With the tabs, you can <a href=\"%s\">create a tab mega menu</a> where you can include widgets or any kind of content available in your menu dashboard."
+
+#: includes/panel/pages/premium.php:32
+msgid "Tabs"
+msgstr "Tabs"
+
+#: includes/panel/pages/premium.php:17
+msgid "This is a very powerfull feature if you will include this plugin in your themes project, as this allows you and your end users to tweak all menu color scheme or layout settings and see the effect of that changes in real time."
+msgstr "This is a very powerful feature if you will include this plugin in your themes project, as this allows you and your end users to tweak all menu colour scheme or layout settings and see the effect of that changes in real time."
+
+#: includes/panel/pages/premium.php:14
+msgid "With the premium version, you'll receive a full integration with the live theme customizer dashboard. "
+msgstr "With the premium version, you'll receive a full integration with the live theme customiser dashboard. "
+
+#: includes/panel/pages/premium.php:7
+msgid "Unlock the power of our premium mega menu plugin which offers you a variety of unique elements that allow you to highlight your website over the competitors and provide an standout navigability for your users."
+msgstr "Unlock the power of our premium mega menu plugin which offers you a variety of unique elements that allow you to highlight your website over the competitors and provide standout navigability for your users."
+
+#: includes/panel/pages/welcome.php:36
+msgid "Thank you for choosing our mega menu plugin! Here you can see our demo content and some layout examples to explore the QuadMenu features."
+msgstr "Thank you for choosing our mega menu plugin! Here you can see our demo content and some layout examples to explore the QuadMenu features."
+
+#: includes/panel/pages/welcome.php:45
+msgid "Submit ticket"
+msgstr "Submit ticket"
+
+#: includes/panel/pages/welcome.php:43
+msgid "We offer personalized support to all <a href=\"%s\" target=\"_blank\">QuadMenu PRO</a> users. To get support first you need to create an account and open a ticket in your account."
+msgstr "We offer personalised support to all <a href=\"%s\" target=\"_blank\">QuadMenu PRO</a> users. To get support first you need to create an account and open a ticket in your account."
+
+#: includes/options.php:1380
+msgid "Set the margin for the mobile links."
+msgstr "Set the margin for the mobile links."
+
+#: includes/panel/system.php:254 includes/panel/welcome.php:255
+msgid "Can't write uploads folder"
+msgstr "Can't write uploads folder"
+
+#: includes/panel/system.php:247 includes/panel/welcome.php:248
+msgid "Folder is writable"
+msgstr "Folder is writable"
+
+#: includes/panel/system.php:239 includes/panel/welcome.php:240
+msgid "Can't download LESS mime types"
+msgstr "Can't download LESS mime types"
+
+#: includes/panel/system.php:230 includes/panel/welcome.php:231
+msgid "LESS files allowed"
+msgstr "LESS files allowed"
+
+#: includes/panel/system.php:139 includes/panel/welcome.php:140
+msgid "You have %s active menu locations"
+msgstr "You have %s active menu locations"
+
+#: includes/backend/ajax.php:141
+msgid "All %s"
+msgstr "All %s"
+
+#: includes/backend/ajax.php:36
+msgid "QuadMenu Archives"
+msgstr "QuadMenu Archives"
+
+#: includes/3rd/beaver/module.php:136 includes/3rd/elementor/module.php:119
+#: includes/options.php:492
+msgid "Center"
+msgstr "Centre"
+
+#: includes/options.php:435 includes/widget.php:85
+msgid "Embed"
+msgstr "Embed"
+
+#: includes/frontend/walker/QuadMenuWalker.class.php:133
+#: includes/frontend/walker/QuadMenuWalker.class.php:135
+#: includes/panel/pages/parts/header.php:9 includes/panel/pages/welcome.php:34
+msgid "Demo"
+msgstr "Demo"
+
+#: includes/configuration.php:402
+msgid "Show items excerpt"
+msgstr "Show items excerpt"
+
+#: includes/configuration.php:401
+msgid "Excerpt"
+msgstr "Excerpt"
+
+#: includes/panel/system.php:114 includes/panel/welcome.php:115
+msgid "Please install it as a plugin"
+msgstr "Please install it as a plugin"
+
+#: includes/configuration.php:282
+msgid "Target"
+msgstr "Target"
+
+#: includes/options.php:1326
+msgid "Pick a color for the border separator."
+msgstr "Pick a colour for the border separator."
+
+#: includes/options.php:1316
+msgid "Display shadow on mobile navbar."
+msgstr "Display shadow on mobile navbar."
+
+#: includes/backend/settings.php:321
+msgid "Opacity"
+msgstr "Opacity"
+
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:21
+#: includes/quadlayers/links.php:13
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/panel/pages/premium.php:5 includes/panel/premium.php:16
+#: includes/quadlayers/links.php:12
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/panel/pages/premium.php:12
+msgid "Customizer"
+msgstr "Customiser"
+
+#: includes/options.php:1189 includes/options.php:1784
+msgid "Scroll"
+msgstr "Scroll"
+
+#: includes/options.php:1738
+msgid "Tab"
+msgstr "Tab"
+
+#: includes/options.php:1759
+msgid "Pick a color for the navbar tab on hover."
+msgstr "Pick a colour for the navbar tab on hover."
+
+#: includes/options.php:548
+msgid "Try to force menu inner width to fit selector."
+msgstr "Try to force menu inner width to fit selector."
+
+#: includes/3rd/beaver/module.php:188 includes/3rd/elementor/module.php:174
+#: includes/options.php:560
+msgid "The menu container will take the width of this selector."
+msgstr "The menu container will take the width of this selector."
+
+#: includes/options.php:1746
+msgid "Pick a color for the navbar tab."
+msgstr "Pick a colour for the navbar tab."
+
+#: lib/redux/rgba/field_rgba.php:55
+msgid "Select"
+msgstr "Select"
+
+#: includes/panel/system.php:321 includes/panel/welcome.php:322
+msgid "Your theme doesn't natively support menus"
+msgstr "Your theme doesn't natively support menus"
+
+#: includes/options.php:1811
+msgid "Typography"
+msgstr "Typography"
+
+#: includes/options.php:1906
+msgid "Animations"
+msgstr "Animations"
+
+#: includes/3rd/beaver/module.php:276 includes/3rd/elementor/module.php:252
+#: includes/options.php:661
+msgid "Set the max height of dropdowns."
+msgstr "Set the max height of dropdowns."
+
+#: includes/3rd/beaver/module.php:275 includes/3rd/elementor/module.php:251
+#: includes/options.php:660
+msgid "Max Height"
+msgstr "Max Height"
+
+#: includes/frontend/walker/QuadMenuItemCart.class.php:17
+msgid "Your cart"
+msgstr "Your Basket"
+
+#: includes/backend/settings.php:354
+msgid "Origin"
+msgstr "Origin"
+
+#: includes/configuration.php:431
+msgid "Custom dropdown width"
+msgstr "Custom dropdown width"
+
+#: includes/configuration.php:429
+msgid "Stretch dropdown"
+msgstr "Stretch dropdown"
+
+#: includes/configuration.php:424
+msgid "This controls the width of the dropdown and contents."
+msgstr "This controls the width of the dropdown and contents."
+
+#: includes/backend/ajax.php:202 includes/backend/ajax.php:341
+#: includes/backend/ajax.php:388 includes/backend/ajax.php:424
+#: includes/backend/ajax.php:464 includes/backend/settings.php:460
+#: includes/backend/walker/widgets.php:220
+#: includes/backend/walker/widgets.php:316 includes/compiler.php:104
+#: includes/themes.php:80 includes/themes.php:110
+msgid "Please reload page."
+msgstr "Please reload page."
+
+#: includes/frontend/walker/QuadMenuWalker.class.php:119
+#: includes/frontend/walker/QuadMenuWalker.class.php:121
+msgid "Add a menu to %1$s"
+msgstr "Add a menu to %1$s"
+
+#. Description of the plugin
+msgid "The best drag & drop WordPress Mega Menu plugin which allow you to create Tabs Menus & Carousel Menus."
+msgstr "The best drag & drop WordPress Mega Menu plugin which allow you to create Tabs Menus & Carousel Menus."
+
+#: includes/frontend/walker/QuadMenuWalker.class.php:126
+#: includes/frontend/walker/QuadMenuWalker.class.php:128
+#: includes/panel/pages/parts/header.php:10 includes/panel/pages/welcome.php:27
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/options.php:1190 includes/options.php:1785
+msgid "Pick a color for the scrollbar."
+msgstr "Pick a colour for the scrollbar."
+
+#: includes/3rd/beaver/module.php:163 includes/3rd/elementor/module.php:149
+#: includes/options.php:536
+msgid "Try to force menu width to fit screen."
+msgstr "Try to force menu width to fit screen."
+
+#: includes/options.php:336
+msgid "Padding between columns."
+msgstr "Padding between columns."
+
+#: includes/options.php:175
+msgid "Icons"
+msgstr "Icons"
+
+#: includes/options.php:166
+msgid "Load OWL Carousel files."
+msgstr "Load OWL Carousel files."
+
+#: includes/options.php:157
+msgid "Load Perfect scroll bar files."
+msgstr "Load Perfect scroll bar files."
+
+#: includes/options.php:142
+msgid "Load default widgets stylesheets."
+msgstr "Load default widgets stylesheets."
+
+#: includes/configuration.php:506
+msgid "Embeded"
+msgstr "Embedded"
+
+#: includes/configuration.php:502 includes/panel/pages/premium.php:77
+msgid "Social"
+msgstr "Social"
+
+#: includes/configuration.php:375 includes/configuration.php:376
+#: includes/configuration.php:377 includes/configuration.php:378
+msgid "Hidden %1$s"
+msgstr "Hidden %1$s"
+
+#: includes/configuration.php:336
+msgid "Item badge title"
+msgstr "Item badge title"
+
+#: includes/configuration.php:135
+msgid "Column to organize the content."
+msgstr "Column to organise the content."
+
+#: includes/compiler.php:173 includes/icons.php:27 includes/themes.php:97
+#: includes/themes.php:131
+msgid "Please wait"
+msgstr "Please wait"
+
+#: includes/options.php:1417
+msgid "Display shadow on dropdown menus."
+msgstr "Display shadow on dropdown menus."
+
+#: includes/options.php:1315 includes/options.php:1416
+msgid "Shadow"
+msgstr "Shadow"
+
+#: includes/3rd/beaver/module.php:255 includes/options.php:636
+#: includes/options.php:1408 includes/options.php:2085
+#: includes/options.php:2093
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: includes/backend/ajax.php:328
+msgid "Failed to add %s as child of %s"
+msgstr "Failed to add %s as child of %s"
+
+#: includes/backend/walker/widgets.php:326
+msgid "Saved settings of %s Widget"
+msgstr "Saved settings of %s Widget"
+
+#: includes/options.php:165
+msgid "OWL Carousel"
+msgstr "OWL Carousel"
+
+#: includes/options.php:270
+msgid "Conflicts"
+msgstr "Conflicts"
+
+#: includes/options.php:271
+msgid "Try to solve conflicts of residual theme style."
+msgstr "Try to solve conflicts of residual theme style."
+
+#: includes/options.php:432
+msgid "Change menu layout."
+msgstr "Change menu layout."
+
+#: includes/3rd/beaver/module.php:133 includes/3rd/elementor/module.php:116
+#: includes/options.php:485
+msgid "Menu items alignment."
+msgstr "Menu items alignment."
+
+#: includes/3rd/beaver/module.php:175 includes/3rd/elementor/module.php:161
+#: includes/options.php:547
+msgid "Inner"
+msgstr "Inner"
+
+#: includes/options.php:976
+msgid "Pick a color for the navbar links divider."
+msgstr "Pick a colour for the navbar links divider."
+
+#: includes/options.php:1299
+msgid "Mobile"
+msgstr "Mobile"
+
+#: templates/layout/alert.php:11
+msgid "This theme location is not active. Please go to <a href=\"%1$s\" target=\"_blank\">Configuration</a> tab and activate the <b>%2$s</b> theme location."
+msgstr "This theme location is not active. Please go to <a href=\"%1$s\" target=\"_blank\">Configuration</a> tab and activate the <b>%2$s</b> theme location."
+
+#: templates/layout/alert.php:8
+msgid "Please include a valid theme location in your php functions. For example:"
+msgstr "Please include a valid theme location in your php functions. For example:"
+
+#: templates/layout/alert.php:6
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: includes/frontend/walker/QuadMenuItemWidget.class.php:60 quadmenu.php:120
+msgid "Do not manually edit this sidebar."
+msgstr "Do not manually edit this sidebar."
+
+#: includes/3rd/vc.php:59
+msgid "Choose a theme location."
+msgstr "Choose a theme location."
+
+#: includes/3rd/vc.php:52
+msgid "Choose a menu."
+msgstr "Choose a menu."
+
+#: includes/3rd/vc.php:49 includes/panel.php:47
+msgid "Menus"
+msgstr "Menus"
+
+#: includes/3rd/vc.php:45
+msgid "QuadMenu Shortcode"
+msgstr "QuadMenu Shortcode"
+
+#: includes/3rd/vc.php:44 includes/configuration.php:199
+msgid "Content"
+msgstr "Content"
+
+#: includes/themes.php:191
+msgid "Are you sure? Resetting will lose all custom values and themes."
+msgstr "Are you sure? Resetting will lose all custom values and themes."
+
+#: includes/themes.php:185
+msgid "Theme name changed."
+msgstr "Theme name changed."
+
+#: includes/themes.php:135
+msgid "Can't delete theme."
+msgstr "Can't delete theme."
+
+#: includes/themes.php:131
+msgid "Theme deleted. Your options panel will be reloaded to remove their options. %s."
+msgstr "Theme deleted. Your options panel will be reloaded to remove their options. %s."
+
+#: includes/themes.php:101
+msgid "Can't create theme."
+msgstr "Can't create theme."
+
+#: includes/themes.php:97
+msgid "New theme created. Your options panel will be reloaded to include their options. %s."
+msgstr "New theme created. Your options panel will be reloaded to include their options. %s."
+
+#: includes/themes.php:91
+msgid "Custom Theme %s"
+msgstr "Custom Theme %s"
+
+#: includes/panel/pages/welcome.php:38
+msgid "View demo"
+msgstr "View demo"
+
+#: includes/panel/pages/welcome.php:31
+msgid "Open documentation"
+msgstr "Open documentation"
+
+#: includes/panel/pages/welcome.php:29
+msgid "Our online documentation will give you important information about the plugin. This is an exceptional resource to start discovering the plugin’s true potential."
+msgstr "Our online documentation will give you important information about the plugin. This is an exceptional resource to start discovering the plugin’s true potential."
+
+#: includes/panel/pages/welcome.php:17
+msgid "Go to the <a href=\"%s\">Options</a> panel and activate the plugin in your theme locations."
+msgstr "Go to the <a href=\"%s\">Options</a> panel and activate the plugin in your theme locations."
+
+#: includes/panel/pages/welcome.php:14
+msgid "The QuadMenu Plugin has a simple and intuitive interface, integrated into the WP dashboard, allowing you to create and customize an unlimited amount of mega menus, without any programming skills."
+msgstr "The QuadMenu Plugin has a simple and intuitive interface, integrated into the WP dashboard, allowing you to create and customise an unlimited amount of mega menus, without any programming skills."
+
+#: includes/panel/pages/welcome.php:12
+msgid "Easy and fast start"
+msgstr "Easy and fast start"
+
+#: includes/panel/pages/welcome.php:7
+msgid "Thank you for using our plugin, we're very grateful for your welcome. We have worked very much and very hard to release this great product and we will do our absolute best to support it and fix all the issues."
+msgstr "Thank you for using our plugin, we're very grateful for your welcome. We have worked very much and very hard to release this great product and we will do our absolute best to support it and fix all the issues."
+
+#: includes/panel/system.php:61 includes/panel/welcome.php:62
+msgid "Info status: this is just for information purposes and easier debug if a problem appears"
+msgstr "Info status: this is just for information purposes and easier debug if a problem appears"
+
+#: includes/panel/system.php:58 includes/panel/welcome.php:59
+msgid "Red status: the site may not work as expected with this option."
+msgstr "Red status: the site may not work as expected with this option."
+
+#: includes/panel/system.php:55 includes/panel/welcome.php:56
+msgid "Yellow status: this setting may affect the backend of the site. The frontend should still run as expected. We recommend that you fix this."
+msgstr "Yellow status: this setting may affect the backend of the site. The frontend should still run as expected. We recommend that you fix this."
+
+#: includes/panel/system.php:52 includes/panel/welcome.php:53
+msgid "Green status: this check passed our system status test!"
+msgstr "Green status: this check passed our system status test!"
+
+#: includes/panel/system.php:391 includes/panel/welcome.php:392
+msgid "No caching plugin detected"
+msgstr "No caching plugin detected"
+
+#: includes/panel/system.php:339 includes/panel/welcome.php:340
+msgid "Increasing memory allocated to PHP"
+msgstr "Increasing memory allocated to PHP"
+
+#: includes/panel/system.php:339 includes/panel/welcome.php:340
+msgid "We recommend setting memory to at least 64MB. The Plugin is well tested with a 40MB/request limit, but if you are using multiple plugins that may not be enough. See: "
+msgstr "We recommend setting memory to at least 64MB. The Plugin is well tested with a 40MB/request limit, but if you are using multiple plugins that may not be enough. See: "
+
+#: includes/panel/system.php:285 includes/panel/welcome.php:286
+msgid "Home URL not equal to Site URL, this may indicate a problem with your WordPress configuration."
+msgstr "Home URL not equal to Site URL, this may indicate a problem with your WordPress configuration."
+
+#: includes/panel/system.php:285 includes/panel/welcome.php:286
+msgid "Home URL != Site URL"
+msgstr "Home URL != Site URL"
+
+#: includes/panel/system.php:218 includes/panel/welcome.php:219
+msgid "It may cause problems with saving the plugin panel if it's not properly configured"
+msgstr "It may cause problems with saving the plugin panel if it's not properly configured"
+
+#: includes/panel/system.php:218 includes/panel/welcome.php:219
+msgid "SUHOSIN is installed"
+msgstr "SUHOSIN is installed"
+
+#: includes/panel/system.php:183 includes/panel/welcome.php:184
+msgid "Increasing max execution to PHP"
+msgstr "Increasing max execution to PHP"
+
+#: includes/panel/system.php:183 includes/panel/welcome.php:184
+msgid "To import the demo content 300 seconds of max execution time is required. See: "
+msgstr "To import the demo content 300 seconds of max execution time is required. See: "
+
+#: includes/panel/system.php:166 includes/panel/welcome.php:167
+msgid "You cannot upload images, themes and plugins that have a size bigger than this value"
+msgstr "You cannot upload images, themes and plugins that have a size bigger than this value"
+
+#: includes/panel/system.php:129 includes/panel/welcome.php:130
+msgid "Activate ReduxFramework"
+msgstr "Activate ReduxFramework"
+
+#: includes/options.php:213
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Quickly add some CSS to your theme by adding it to this block."
+
+#: includes/options.php:201
+msgid "Customize"
+msgstr "Customise"
+
+#: includes/options.php:1819 includes/options.php:1836
+#: includes/options.php:1869
+msgid "Specify the font properties."
+msgstr "Specify the font properties."
+
+#: includes/options.php:1648
+msgid "Pick a color for the dropdown links subtitle on hover."
+msgstr "Pick a colour for the dropdown links subtitle on hover."
+
+#: includes/options.php:1635
+msgid "Pick a color for the dropdown links subtitle."
+msgstr "Pick a colour for the dropdown links subtitle."
+
+#: includes/options.php:1612
+msgid "Pick a color for the dropdown links icon on hover."
+msgstr "Pick a colour for the dropdown links icon on hover."
+
+#: includes/options.php:1599
+msgid "Pick a color for the dropdown links icon."
+msgstr "Pick a colour for the dropdown links icon."
+
+#: includes/options.php:1852 includes/options.php:1885
+msgid "Transform"
+msgstr "Transform"
+
+#: includes/options.php:1546
+msgid "Pick a border color for the dropdown menu links border."
+msgstr "Pick a border colour for the dropdown menu links border."
+
+#: includes/options.php:1518
+msgid "Pick a background color for the links on mouseover."
+msgstr "Pick a background colour for the links on mouseover."
+
+#: includes/options.php:1505
+msgid "Pick a color for the dropdown menu links on mousehover."
+msgstr "Pick a colour for the dropdown menu links on mousehover."
+
+#: includes/options.php:1492
+msgid "Pick a color for the dropdown menu links."
+msgstr "Pick a colour for the dropdown menu links."
+
+#: includes/options.php:1579
+msgid "Pick a color for the dropdown menu title border."
+msgstr "Pick a colour for the dropdown menu title border."
+
+#: includes/options.php:1325 includes/options.php:1392
+#: includes/options.php:1454 includes/options.php:1545
+#: includes/options.php:1578
+msgid "Border"
+msgstr "Border"
+
+#: includes/options.php:1566
+msgid "Pick a color for the dropdown menu title."
+msgstr "Pick a colour for the dropdown menu title."
+
+#: includes/options.php:1467
+msgid "Pick a background color for the dropdown menu."
+msgstr "Pick a background colour for the dropdown menu."
+
+#: includes/options.php:1455
+msgid "Pick a border color for the dropdown."
+msgstr "Pick a border colour for the dropdown."
+
+#: includes/options.php:1442
+msgid "Dropdown border radius."
+msgstr "Dropdown border radius."
+
+#: includes/options.php:1431
+msgid "Dropdown margin top."
+msgstr "Dropdown margin top."
+
+#: includes/options.php:1868
+msgid "Submenu"
+msgstr "Submenu"
+
+#: includes/options.php:1201 includes/options.php:1796
+msgid "Pick a color for the scrollbar rail."
+msgstr "Pick a colour for the scrollbar rail."
+
+#: includes/options.php:1178 includes/options.php:1773
+msgid "ScrollBar"
+msgstr "ScrollBar"
+
+#: includes/options.php:1270
+msgid "Change the navbar sticky height."
+msgstr "Change the navbar sticky height."
+
+#: includes/options.php:1254
+msgid "Change the navbar sticky background."
+msgstr "Change the navbar sticky background."
+
+#: includes/options.php:1086
+msgid "Pick a color for the badge."
+msgstr "Pick a colour for the badge."
+
+#: includes/options.php:1099
+msgid "Pick a background color for the badge."
+msgstr "Pick a background colour for the badge."
+
+#: includes/options.php:1063
+msgid "Pick a color for the navbar links subtitle on hover."
+msgstr "Pick a colour for the navbar links subtitle on hover."
+
+#: includes/options.php:1050
+msgid "Pick a color for the navbar links subtitle."
+msgstr "Pick a colour for the navbar links subtitle."
+
+#: includes/options.php:1027
+msgid "Pick a color for the navbar links icon on hover."
+msgstr "Pick a colour for the navbar links icon on hover."
+
+#: includes/options.php:1014
+msgid "Pick a color for the navbar links icon."
+msgstr "Pick a colour for the navbar links icon."
+
+#: includes/options.php:1697 includes/options.php:1710
+msgid "Pick a color for the navbar button on hover."
+msgstr "Pick a colour for the navbar button on hover."
+
+#: includes/options.php:1117 includes/options.php:1128
+#: includes/options.php:1671 includes/options.php:1684
+msgid "Pick a color for the navbar button."
+msgstr "Pick a colour for the navbar button."
+
+#: includes/options.php:1112 includes/options.php:1663
+msgid "Button"
+msgstr "Button"
+
+#: includes/options.php:989
+msgid "Pick a color for the navbar link effect on mousehover."
+msgstr "Pick a colour for the navbar link effect on mousehover."
+
+#: includes/options.php:988 includes/options.php:1914
+msgid "Effect"
+msgstr "Effect"
+
+#: includes/options.php:961
+msgid "Pick a color for the navbar background on mousehover."
+msgstr "Pick a colour for the navbar background on mousehover."
+
+#: includes/options.php:933
+msgid "Pick a color for the navbar background."
+msgstr "Pick a colour for the navbar background."
+
+#: includes/options.php:948
+msgid "Pick a color for the navbar links on mousehover."
+msgstr "Pick a colour for the navbar links on mousehover."
+
+#: includes/options.php:920
+msgid "Pick a color for the navbar links."
+msgstr "Pick a colour for the navbar links."
+
+#: includes/options.php:1860 includes/options.php:1893
+msgid "Lowercase"
+msgstr "Lowercase"
+
+#: includes/options.php:1859 includes/options.php:1892
+msgid "Uppercase"
+msgstr "Uppercase"
+
+#: includes/options.php:1858 includes/options.php:1891
+msgid "Capitalize"
+msgstr "Capitalize"
+
+#: includes/options.php:1853 includes/options.php:1886
+msgid "Pick a text transform for the link."
+msgstr "Pick a text transform for the link."
+
+#: includes/options.php:814 includes/options.php:1372 includes/options.php:1484
+msgid "Link"
+msgstr "Link"
+
+#: includes/options.php:912
+msgid "Links"
+msgstr "Links"
+
+#: includes/options.php:897
+msgid "Set the radius for the navbar links."
+msgstr "Set the radius for the navbar links."
+
+#: includes/options.php:896 includes/options.php:1163 includes/options.php:1441
+msgid "Radius"
+msgstr "Radius"
+
+#: includes/options.php:884
+msgid "Set the margin for the navbar links."
+msgstr "Set the margin for the navbar links."
+
+#: includes/options.php:883 includes/options.php:1379 includes/options.php:1430
+msgid "Margin"
+msgstr "Margin"
+
+#: includes/3rd/beaver/module.php:90 includes/3rd/beaver/module.php:109
+#: includes/3rd/elementor/module.php:68 includes/options.php:876
+#: includes/widget.php:117
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/options.php:857
+msgid "Pick a background color for the navbar logo."
+msgstr "Pick a background colour for the navbar logo."
+
+#: includes/3rd/elementor/module.php:91 includes/options.php:841
+#: includes/options.php:1283
+msgid "Max logo height in px."
+msgstr "Max logo height in px."
+
+#: includes/3rd/beaver/module.php:113 includes/3rd/elementor/module.php:90
+#: includes/options.php:803 includes/options.php:1282
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/options.php:1360
+msgid "Pick a color for the toggle button background on hover."
+msgstr "Pick a colour for the toggle button background on hover."
+
+#: includes/options.php:1348
+msgid "Pick a color for the toggle icon."
+msgstr "Pick a colour for the toggle icon."
+
+#: includes/configuration.php:507 includes/options.php:1340
+msgid "Toggle"
+msgstr "Toggle"
+
+#: includes/options.php:789
+msgid "Change the items width."
+msgstr "Change the items width."
+
+#: includes/options.php:777
+msgid "Change the items height."
+msgstr "Change the items height."
+
+#: includes/options.php:753
+msgid "Pick a color for the navbar text."
+msgstr "Pick a colour for the navbar text."
+
+#: includes/configuration.php:494 includes/options.php:752
+#: includes/options.php:1933 includes/options.php:2122
+msgid "Text"
+msgstr "Text"
+
+#: includes/options.php:735
+msgid "Pick a degrees angle for background gradient."
+msgstr "Pick a degrees angle for background gradient."
+
+#: includes/options.php:734
+msgid "Degrees"
+msgstr "Degrees"
+
+#: includes/options.php:700 includes/options.php:715
+msgid "Pick a background color for the navbar."
+msgstr "Pick a background colour for the navbar."
+
+#: includes/options.php:690 includes/options.php:714
+msgid "Gradient"
+msgstr "Gradient"
+
+#: includes/options.php:689 includes/options.php:699 includes/options.php:919
+#: includes/options.php:1049 includes/options.php:1085
+#: includes/options.php:1116 includes/options.php:1491
+#: includes/options.php:1634 includes/options.php:1670
+#: lib/redux/rgba/field_rgba.php:56
+msgid "Color"
+msgstr "Colour"
+
+#: includes/options.php:687
+msgid "Select the navbar background."
+msgstr "Select the navbar background."
+
+#: includes/options.php:1921
+msgid "SlideBar Bottom (Horizontal)"
+msgstr "SlideBar Bottom (Horizontal)"
+
+#: includes/options.php:1920
+msgid "SlideBar Middle (Horizontal)"
+msgstr "SlideBar Middle (Horizontal)"
+
+#: includes/options.php:1919
+msgid "SlideBar Top (Horizontal)"
+msgstr "SlideBar Top (Horizontal)"
+
+#: includes/options.php:1857 includes/options.php:1890
+#: includes/options.php:1936 includes/options.php:1968
+#: includes/options.php:2000 includes/options.php:2032
+#: includes/options.php:2064 includes/options.php:2125
+#: includes/options.php:2157 includes/options.php:2189
+#: includes/options.php:2221
+msgid "None"
+msgstr "None"
+
+#: includes/3rd/beaver/module.php:233 includes/3rd/elementor/module.php:217
+#: includes/options.php:612
+msgid "Show carets on items with dropdown menus."
+msgstr "Show carets on items with dropdown menus."
+
+#: includes/3rd/beaver/module.php:232 includes/3rd/elementor/module.php:216
+#: includes/options.php:611
+msgid "Caret"
+msgstr "Caret"
+
+#: includes/3rd/beaver/module.php:223 includes/3rd/beaver/module.php:236
+#: includes/3rd/elementor/module.php:207 includes/3rd/elementor/module.php:220
+#: includes/options.php:599 includes/options.php:615 includes/options.php:1319
+#: includes/options.php:1420
+msgid "Hide"
+msgstr "Hide"
+
+#: includes/3rd/beaver/module.php:222 includes/3rd/beaver/module.php:235
+#: includes/3rd/elementor/module.php:206 includes/3rd/elementor/module.php:219
+#: includes/options.php:598 includes/options.php:614 includes/options.php:1318
+#: includes/options.php:1419
+msgid "Show"
+msgstr "Show"
+
+#: includes/3rd/beaver/module.php:220 includes/3rd/elementor/module.php:204
+#: includes/options.php:596
+msgid "Show a small divider bar between each menu item."
+msgstr "Show a small divider bar between each menu item."
+
+#: includes/3rd/beaver/module.php:219 includes/3rd/elementor/module.php:203
+#: includes/options.php:595 includes/options.php:975
+msgid "Divider"
+msgstr "Divider"
+
+#: includes/options.php:1237
+msgid "Set the length of the scroll for each user to pass before the menu will stick to the top of the window."
+msgstr "Set the length of the scroll for each user to pass before the menu will stick to the top of the window."
+
+#: includes/options.php:1228
+msgid "Make the menu sticky on scroll."
+msgstr "Make the menu sticky on scroll."
+
+#: includes/options.php:1217 includes/options.php:1227
+msgid "Sticky"
+msgstr "Sticky"
+
+#: includes/options.php:627
+msgid "Include your own classes in the menu."
+msgstr "Include your own classes in the menu."
+
+#: includes/3rd/beaver/module.php:245 includes/3rd/elementor/module.php:229
+#: includes/options.php:626
+msgid "Classes"
+msgstr "Classes"
+
+#: includes/options.php:2094
+msgid "Select the animation for the dropdowns."
+msgstr "Select the animation for the dropdowns."
+
+#: includes/options.php:2096
+msgid "FadeIn"
+msgstr "FadeIn"
+
+#: includes/options.php:2100
+msgid "Hinge"
+msgstr "Hinge"
+
+#: includes/options.php:2097
+msgid "Bottom to top"
+msgstr "Bottom to top"
+
+#: includes/3rd/beaver/module.php:215 includes/3rd/elementor/module.php:199
+#: includes/options.php:586
+msgid "Open dropdown if is current page."
+msgstr "Open dropdown if is current page."
+
+#: includes/3rd/beaver/module.php:209 includes/3rd/elementor/module.php:193
+#: includes/options.php:585 includes/options.php:1347
+msgid "Open"
+msgstr "Open"
+
+#: includes/3rd/beaver/module.php:267 includes/3rd/elementor/module.php:241
+#: includes/options.php:649
+msgid "Open dropdown menu on mouseover or click."
+msgstr "Open dropdown menu on mouseover or click."
+
+#: includes/3rd/beaver/module.php:265 includes/3rd/elementor/module.php:239
+#: includes/options.php:647
+msgid "Click"
+msgstr "Click"
+
+#: includes/3rd/beaver/module.php:262 includes/3rd/elementor/module.php:236
+#: includes/options.php:644
+msgid "Trigger"
+msgstr "Trigger"
+
+#: includes/3rd/beaver/module.php:187 includes/3rd/elementor/module.php:173
+#: includes/options.php:559
+msgid "Selector"
+msgstr "Selector"
+
+#: includes/options.php:521
+msgid "Point at which the navbar becomes uncollapsed."
+msgstr "Point at which the navbar becomes uncollapsed."
+
+#: includes/3rd/beaver/module.php:148 includes/3rd/elementor/module.php:132
+#: includes/options.php:520
+msgid "Breakpoint"
+msgstr "Breakpoint"
+
+#: includes/options.php:463
+msgid "Vertical menu position."
+msgstr "Vertical menu position."
+
+#: includes/3rd/beaver/module.php:132 includes/3rd/elementor/module.php:115
+#: includes/options.php:484
+msgid "Align"
+msgstr "Align"
+
+#: includes/3rd/beaver/module.php:97 includes/3rd/elementor/module.php:75
+#: includes/options.php:451 includes/widget.php:89
+msgid "Inherit"
+msgstr "Inherit"
+
+#: includes/options.php:447 includes/widget.php:88
+msgid "Vertical"
+msgstr "Vertical"
+
+#: includes/3rd/beaver/module.php:95 includes/3rd/elementor/module.php:73
+#: includes/options.php:443 includes/widget.php:87
+msgid "Offcanvas"
+msgstr "Offcanvas"
+
+#: includes/3rd/beaver/module.php:94 includes/3rd/elementor/module.php:72
+#: includes/options.php:439 includes/widget.php:86
+msgid "Collapse"
+msgstr "Collapse"
+
+#: includes/3rd/beaver/module.php:38
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:71
+#: includes/3rd/elementor/module.php:46 includes/options.php:431
+#: includes/options.php:512 includes/options.php:677 includes/options.php:767
+#: includes/options.php:1835 includes/widget.php:111
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/options.php:421
+msgid "Change theme name."
+msgstr "Change theme name."
+
+#: includes/options.php:372
+msgid "Large screens breakpoint."
+msgstr "Large screens breakpoint."
+
+#: includes/options.php:371
+msgid "Screen Large"
+msgstr "Screen Large"
+
+#: includes/options.php:360
+msgid "Medium screens breakpoint."
+msgstr "Medium screens breakpoint."
+
+#: includes/options.php:359
+msgid "Screen Medium"
+msgstr "Screen Medium"
+
+#: includes/options.php:348
+msgid "Small screens breakpoint."
+msgstr "Small screens breakpoint."
+
+#: includes/options.php:347
+msgid "Screen Small"
+msgstr "Screen Small"
+
+#: includes/options.php:335
+msgid "Gutter"
+msgstr "Gutter"
+
+#: includes/options.php:327
+msgid "Responsive"
+msgstr "Responsive"
+
+#: includes/options.php:307
+msgid "Manual Integration"
+msgstr "Manual Integration"
+
+#: includes/options.php:296
+msgid "If your menu doesn't seem to be working properly after using Automatic Integration, the most common scenario is that you have residual styling from your theme and would need to use Manual Integration instead."
+msgstr "If your menu doesn't seem to be working properly after using Automatic Integration, the most common scenario is that you have residual styling from your theme and would need to use Manual Integration instead."
+
+#: includes/options.php:285
+msgid "Select a theme for this theme location"
+msgstr "Select a theme for this theme location"
+
+#: includes/options.php:262
+msgid "Integrate QuadMenu in this theme location."
+msgstr "Integrate QuadMenu in this theme location."
+
+#: includes/options.php:261 includes/options.php:294
+msgid "Integration"
+msgstr "Integration"
+
+#: includes/options.php:176
+msgid "Select the fonticon for your menus."
+msgstr "Select the fonticon for your menus."
+
+#: includes/options.php:156
+msgid "Perfect ScrollBar"
+msgstr "Perfect ScrollBar"
+
+#: includes/options.php:141
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/options.php:127
+msgid "Try to clean residual styling of the theme."
+msgstr "Try to clean residual styling of the theme."
+
+#: includes/options.php:126
+msgid "Normalize"
+msgstr "Normalise"
+
+#: includes/options.php:116
+msgid "Load styles in your theme."
+msgstr "Load styles in your theme."
+
+#: includes/options.php:115
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+#: includes/options.php:107
+msgid "Include the viewport meta tag in site head."
+msgstr "Include the viewport meta tag in site head."
+
+#: includes/options.php:106
+msgid "Viewport"
+msgstr "Viewport"
+
+#: includes/options.php:96
+msgid "Configuration"
+msgstr "Configuration"
+
+#: lib/redux/template/header_stickybar.tpl.php:10
+msgid "Duplicate this theme"
+msgstr "Duplicate this theme"
+
+#: lib/redux/template/footer.tpl.php:56
+#: lib/redux/template/header_stickybar.tpl.php:11
+msgid "Create Theme"
+msgstr "Create Theme"
+
+#: lib/redux/template/footer.tpl.php:55
+msgid "Delete this theme"
+msgstr "Delete this theme"
+
+#: lib/redux/icons/field_icons.php:159
+msgid "+ Add Icon"
+msgstr "+ Add Icon"
+
+#: lib/redux/icons/field_icons.php:37
+msgid "Search icon"
+msgstr "Search icon"
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr "FORCED DEV MODE OFF ENABLED"
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:36
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+msgstr "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "This has been automatically enabled because"
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr "and"
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "you are working in a localhost environment"
+
+#: includes/panel/system.php:357 includes/panel/welcome.php:358
+#: lib/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG is enabled"
+
+#: lib/ReduxCore/templates/panel/header.tpl.php:11
+#: lib/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr "Developer Mode Enabled"
+
+#: lib/redux/template/footer.tpl.php:69
+#: lib/redux/template/header_stickybar.tpl.php:21
+#: lib/ReduxCore/templates/panel/footer.tpl.php:69
+#: lib/ReduxCore/templates/panel/header_stickybar.tpl.php:33
+msgid "Working..."
+msgstr "Working..."
+
+#: lib/redux/template/footer.tpl.php:64
+#: lib/redux/template/header_stickybar.tpl.php:18
+#: lib/ReduxCore/templates/panel/footer.tpl.php:64
+#: lib/ReduxCore/templates/panel/header_stickybar.tpl.php:29
+msgid "Reset All"
+msgstr "Reset All"
+
+#: lib/redux/template/footer.tpl.php:63
+#: lib/redux/template/header_stickybar.tpl.php:17
+#: lib/ReduxCore/templates/panel/footer.tpl.php:62
+#: lib/ReduxCore/templates/panel/header_stickybar.tpl.php:27
+msgid "Reset Section"
+msgstr "Reset Section"
+
+#: lib/ReduxCore/templates/panel/footer.tpl.php:57
+#: lib/ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:519
+msgid "View %s"
+msgstr "View %s"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:359
+msgid "Status"
+msgstr "Status"
+
+#: includes/panel/pages/welcome.php:41
+#: lib/ReduxCore/inc/welcome/welcome.php:356
+msgid "Support"
+msgstr "Support"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:353
+msgid "Credits"
+msgstr "Credits"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:350
+msgid "Changelog"
+msgstr "Change log"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:347
+msgid "Extensions"
+msgstr "Extensions"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:344
+msgid "What's New"
+msgstr "What's New"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:244
+msgid "Redux Framework Status"
+msgstr "Redux Framework Status"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:236
+msgid "The people that develop Redux Framework"
+msgstr "The people that develop Redux Framework"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:219
+msgid "Get Support"
+msgstr "Get Support"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:211
+msgid "Redux Framework Changelog"
+msgstr "Redux Framework Change log"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:203
+msgid "Welcome to Redux Framework"
+msgstr "Welcome to Redux Framework"
+
+#: lib/ReduxCore/inc/welcome/welcome.php:181
+msgid "Support hash could not be generated. Please try again later."
+msgstr "Support hash could not be generated. Please try again later."
+
+#: lib/ReduxCore/inc/welcome/welcome.php:104
+msgid "If you like <strong>Redux</strong> please leave us a <a href=\"https://wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank you from Redux in advance!"
+msgstr "If you like <strong>Redux</strong> please leave us a <a href=\"https://wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank you from Redux in advance!"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:134
+msgid "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
+msgstr "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:105
+msgid "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
+msgstr "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:92
+msgid "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
+msgstr "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr "I am a developer, building a product using Redux."
+
+#: includes/panel/pages/premium.php:103
+#: lib/ReduxCore/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr "Developer"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr "I am a user, using a pre-built product."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:63
+msgid "User"
+msgstr "User"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr "What type of user are you?"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr "Select Your Support Type"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:35
+msgid "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the  <a href=\"%s\">Status tab</a>."
+msgstr "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the <a href=\"%s\">Status tab</a>."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:101
+msgid "Listed below are the Wordpress plugins and/or theme installed on your site that utilize Redux Framework. We do not directly support products created with our framework.  It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
+msgstr "Listed below are the WordPress plugins and/or theme installed on your site that utilise Redux Framework. We do not directly support products created with our framework. It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr "To get started, we will need to generate a support hash."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr "Submit a Support Request"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:21
+#: lib/ReduxCore/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr "How to Get Support"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr "Select Support Type"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:19
+#: lib/ReduxCore/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr "Generate a Support URL"
+
+#: lib/ReduxCore/inc/welcome/views/support.php:4
+msgid "We are an open source project used by developers to make powerful control panels."
+msgstr "We are an open source project used by developers to make powerful control panels."
+
+#: lib/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr "Redux Framework - Support"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr "The parent theme developers URL."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr "Parent Theme Author URL"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr "The installed version of the parent theme."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr "Parent Theme Version"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr "The name of the parent theme."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr "Parent Theme Name"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:737
+msgid "If you're modifying Redux Framework or a parent theme you didn't build personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "If you're modifying Redux Framework or a parent theme you didn't build personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr "Displays whether or not the current theme is a child theme."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr "Child Theme"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr "The theme developers URL."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr "Author URL"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr "is available"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr "The installed version of the current active theme."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr "Version"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr "The name of the current active theme."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr "Name"
+
+#: includes/3rd/beaver/module.php:102
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:80
+#: includes/3rd/elementor/module.php:81 includes/3rd/vc.php:56
+#: includes/options.php:284 includes/options.php:420 includes/widget.php:123
+#: lib/ReduxCore/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr "Theme"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr "Indicates the installed Redux extensions and their version numbers."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr "List of template files overriding the default Redux template files."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:645
+msgid "The specified template path containing custom template files for this instance of Redux."
+msgstr "The specified template path containing custom template files for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:636
+msgid "The output_tag variable sets whether or not dynamic CSS will be generated for the customizer and Google fonts for this instance of Redux."
+msgstr "The output_tag variable sets whether or not dynamic CSS will be generated for the customiser and Google fonts for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:631
+msgid "Indicates if output flag for globally shutting off all CSS output is enabled for this instance of Redux."
+msgstr "Indicates if output flag for globally shutting off all CSS output is enabled for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "Indicates if the compiler flag is enabled for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:620
+msgid "The page parent variable sets where the options menu will be placed on the WordPress admin sidebar for this instance of Redux."
+msgstr "The page parent variable sets where the options menu will be placed on the WordPress admin sidebar for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:615
+msgid "This variable set whether or not the menu is displayed as an admin menu item for this instance of Redux."
+msgstr "This variable set whether or not the menu is displayed as an admin menu item for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:610
+msgid "The page permissions variable sets the permission level required to access the options panel for this instance of Redux."
+msgstr "The page permissions variable sets the permission level required to access the options panel for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:605
+msgid "The page slug denotes the string used for the options panel page for this instance of Redux."
+msgstr "The page slug denotes the string used for the options panel page for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr "Indicates if Ajax based saving is enabled for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr "Indicates if developer mode is enabled for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr "The global_variable argument for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr "The opt_name argument for this instance of Redux."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr "Redux Instance: "
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:553
+msgctxt "by author"
+msgid "by %s"
+msgstr "by %s"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr "Visit plugin homepage"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:495
+msgid "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
+msgstr "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr "Used to grab information from remote servers for updates updates."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr "Remote Get"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:482
+#: lib/ReduxCore/inc/welcome/views/status_report.php:497
+msgid "Error: %s"
+msgstr "Error: %s"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:479
+msgid "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
+msgstr "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr "Used to send data to remote servers."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr "Remote Post"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:434
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+msgstr "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr "Used when communicating with remote services with PHP."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:416
+msgid "Default timezone is %s - it should be UTC"
+msgstr "Default timezone is %s - it should be UTC"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr "The default timezone for your server."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr "Default Timezone is UTC"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:405
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr "The largest filesize that can be uploaded to your WordPress installation."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr "Max Upload Size"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr "The version of MySQL installed on your hosting server."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:388
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Installed"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr "Determines if PHP will display errors within the browser."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr "PHP Display Errors"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:371
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "The maximum number of variables your server can use for a single function to avoid overloads."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:366
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:356
+#: lib/ReduxCore/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr "The largest file-size that can be contained in one post."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr "The ABSPATH variable on the server."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr "The version of PHP installed on your hosting server."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr "Is the server running in a localhost environment."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr "Localhost Environment"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Information about the web server that is currently hosting your site."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr "Server Info"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr "Server Environment"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr "Information about web browser current in use."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr "Browser Info"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr "Browser"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr "The current language used by WordPress. Default = English"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr "Language"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Displays whether or not WordPress is in Debug Mode."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr "WP Debug Mode"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr "The prefix structure of the current WordPress database."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr "Database Table Prefix"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:220
+msgid "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "The maximum amount of memory (RAM) that your site can use at one time."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr "WP Memory Limit"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr "The currently selected page in where blog posts are displayed."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr "Posts Page"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr "The currently selected page which acts as the site's Front Page."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr "Front Page"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr "The current Reading mode of WordPress."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr "Front Page Display"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:165
+msgid "The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr "The current permalink structure as defined in WordPress Settings->Permalinks."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr "Permalink Structure"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Whether or not you have WordPress Multisite enabled."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr "The version of WordPress installed on your site."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr "WP Version"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr "The location of WordPress's content URL."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr "WP Content URL"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:120
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr "To allow data saving, make <code>%s</code> writable."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:114
+msgid "Redux and its extensions write data to the <code>uploads</code> directory. This directory must be writable."
+msgstr "Redux and its extensions write data to the <code>uploads</code> directory. This directory must be writable."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr "Redux Data Directory Writable"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr "The version of Redux Framework installed on your site."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr "Redux Version"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr "The root URL of your site."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr "Site URL"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr "The URL of your site's homepage."
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr "Home URL"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr "WordPress Environment"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr "Copy for Support"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr "Copied!"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr "Understanding the Status Report"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr "Get System Report"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:43
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr "Please copy and paste this information in your ticket when contacting support:"
+
+#: lib/ReduxCore/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr "Redux Framework - System Status"
+
+#: lib/ReduxCore/inc/welcome/views/extensions.php:89
+msgid "While some are built specificially for developers, extensions such as Custom Fonts are sure to make any user happy."
+msgstr "While some are built specifically for developers, extensions such as Custom Fonts are sure to make any user happy."
+
+#: lib/ReduxCore/inc/welcome/views/extensions.php:76
+msgid "Supercharge your Redux experience. Our extensions provide you with features that will take your products to the next level."
+msgstr "Supercharge your Redux experience. Our extensions provide you with features that will take your products to the next level."
+
+#: lib/ReduxCore/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr "Redux Framework - Extensions"
+
+#: lib/ReduxCore/inc/welcome/views/credits.php:18
+msgid "Redux is created by a community of developers world wide. Want to have your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr "Redux is created by a community of developers world wide. Want to have your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+
+#: lib/ReduxCore/inc/welcome/views/credits.php:5
+msgid "We recognize we are nothing without our community. We would like to thank all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr "We recognise we are nothing without our community. We would like to thank all of those who help Redux to be what it is. Thank you for your involvement."
+
+#: lib/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr "Redux Framework - A Community Effort"
+
+#: lib/ReduxCore/inc/welcome/views/changelog.php:5
+#: lib/ReduxCore/inc/welcome/views/status_report.php:30
+msgid "Our core mantra at Redux is backwards compatibility. With hundreds of thousands of instances worldwide, you can be assured that we will take care of you and your clients."
+msgstr "Our core mantra at Redux is backwards compatibility. With hundreds of thousands of instances worldwide, you can be assured that we will take care of you and your clients."
+
+#: lib/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr "Redux Framework - Change log"
+
+#: lib/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr "New in this Release"
+
+#: lib/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr "Learn More"
+
+#: lib/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+"Redux Framework is the core of many products on the web. It is an option framework which developers use to\n"
+"            enhance their products."
+
+#: lib/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr "What is Redux Framework?"
+
+#: lib/ReduxCore/inc/welcome/views/about.php:8
+#: lib/ReduxCore/inc/welcome/views/changelog.php:10
+#: lib/ReduxCore/inc/welcome/views/credits.php:10
+#: lib/ReduxCore/inc/welcome/views/extensions.php:81
+#: lib/ReduxCore/inc/welcome/views/status_report.php:34
+#: lib/ReduxCore/inc/welcome/views/support.php:8
+msgid "Version %s"
+msgstr "Version %s"
+
+#: lib/ReduxCore/inc/welcome/views/about.php:5
+msgid "Thank you for updating to the latest version! Redux Framework %s is a huge step forward in Redux Development. Look at all that's new."
+msgstr "Thank you for updating to the latest version! Redux Framework %s is a huge step forward in Redux Development. Look at all that's new."
+
+#: lib/ReduxCore/inc/welcome/views/about.php:2
+msgid "Welcome to Redux Framework %s"
+msgstr "Welcome to Redux Framework %s"
+
+#: lib/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "You must provide a valid URL for this option."
+
+#: lib/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+
+#: lib/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: lib/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "You must provide a numerical value for this option."
+
+#: lib/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "This field cannot be empty. Please provide a value."
+
+#: lib/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr "You must not enter any special characters in this field, all special characters have been removed."
+
+#: lib/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "You must not enter any HTML in this field, all HTML tags have been removed."
+
+#: lib/ReduxCore/inc/validation/email/validation_email.php:16
+#: lib/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "You must provide a valid email for this option."
+
+#: lib/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "This field must be a valid date."
+
+#: lib/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "Unsafe strings were found in your CSS and have been filtered out."
+
+#: lib/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr "You must provide a comma separated list of numerical values for this option."
+
+#: lib/ReduxCore/inc/validation/color/validation_color.php:15
+#: lib/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+#: lib/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr "This field must be a valid colour value."
+
+#: includes/options.php:1359 lib/redux/icons/field_icons.php:48
+#: lib/ReduxCore/inc/tracking.php:175
+msgid "Close"
+msgstr "Close"
+
+#: lib/ReduxCore/inc/tracking.php:154 lib/ReduxCore/inc/welcome/welcome.php:227
+msgid "Redux Extensions"
+msgstr "Redux Extensions"
+
+#: lib/ReduxCore/inc/tracking.php:153
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+msgstr "Want to get a head start? Use the %1$s. It will create a customised boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+
+#: lib/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr "Redux Generator"
+
+#: lib/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr "our documentation"
+
+#: lib/ReduxCore/inc/tracking.php:152
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
+msgstr "This panel demonstrates the many features of Redux. Before digging in, we suggest you get up to speed by reviewing %1$s."
+
+#: lib/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: lib/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr "Welcome to the Redux Demo Panel"
+
+#: lib/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr "Do not allow tracking"
+
+#: lib/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr "Allow tracking"
+
+#: lib/ReduxCore/inc/tracking.php:130
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+msgstr "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+
+#: lib/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr "Help improve Our Panel"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid "It appears that you have embedded the full Redux package inside your theme. You need only embed the <strong>ReduxCore</strong> folder. Embedding anything else will get your rejected from theme submission. Suspected Redux package file(s):"
+msgstr "It appears that you have embedded the full Redux package inside your theme. You need only embed the <strong>ReduxCore</strong> folder. Embedding anything else will get your rejected from theme submission. Suspected Redux package file(s):"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr "PHP Unit Testing"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr "CI Testing FIle"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr "Redux Boostrap Tests"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr "Redux Plugin File"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr "Redux Unit Testing"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr "Redux Code Styles"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr "Redux Resting Diles"
+
+#: lib/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr "Redux localisation utilities"
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following arguments MUST be used for WP.org submissions, or you will be rejected because of your Redux configuration."
+msgstr "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following arguments MUST be used for WP.org submissions, or you will be rejected because of your Redux configuration."
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr "Optional"
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:24
+msgid "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete <strong> %s </strong>, or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete <strong> %s </strong>, or your theme will be rejected by WP.org theme submission because of Redux."
+
+#: lib/ReduxCore/inc/themecheck/checks/embedded.php:15
+msgid "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are submitting to WordPress.org Theme Repository, it is <strong>strongly</strong> suggested that you read <a href=\"%s\" target=\"_blank\">this document</a>, or your theme will be rejected because of Redux."
+msgstr "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are submitting to WordPress.org Theme Repository, it is <strong>strongly</strong> suggested that you read <a href=\"%s\" target=\"_blank\">this document</a>, or your theme will be rejected because of Redux."
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:1014
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:913
+msgid "Standard Fonts"
+msgstr "Standard Fonts"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr "Font colour"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr "Font Colour"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:459
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:450
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr "Word Spacing"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:441
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr "Line Height"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:432
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr "Font Size"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:408
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:409
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr "Text Decoration"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:388
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:389
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr "Font Variant"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:365
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:366
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr "Text Transform"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:342
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:343
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr "Text Align"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr "Font script"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr "Subsets"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr "Font Subsets"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr "Font subsets"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr "Style"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr "Font Weight &amp; Style"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:273
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr "Font style"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:258
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr "Backup Font Family"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr "Font family"
+
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr "Font Family"
+
+#: lib/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "Off"
+
+#: lib/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "On"
+
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr "Add %s"
+
+#: lib/redux/icons/field_icons.php:184
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:167
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr "Delete"
+
+#: includes/configuration.php:254 includes/options.php:1558
+#: includes/options.php:1565 lib/redux/icons/field_icons.php:152
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:145
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr "Title"
+
+#: lib/redux/icons/field_icons.php:74
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:73
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:174
+msgid "New %s"
+msgstr "New %s"
+
+#: lib/redux/icons/field_icons.php:69
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "Slide"
+
+#: lib/ReduxCore/inc/fields/select/field_select.php:134
+#: lib/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr "No items of this type were found."
+
+#: lib/ReduxCore/inc/fields/select/field_select.php:83
+#: lib/ReduxCore/inc/fields/select_image/field_select_image.php:54
+msgid "Select an item"
+msgstr "Select an item"
+
+#: lib/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "Username"
+
+#: lib/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Password"
+
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr "Add More"
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr "Focus"
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:102
+msgid "Active"
+msgstr "Active"
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr "Visited"
+
+#: includes/3rd/beaver/module.php:264 includes/3rd/elementor/module.php:238
+#: includes/options.php:646 includes/options.php:947 includes/options.php:1026
+#: includes/options.php:1062 includes/options.php:1138
+#: includes/options.php:1504 includes/options.php:1611
+#: includes/options.php:1647 includes/options.php:1696
+#: includes/options.php:1758 includes/options.php:1946
+#: includes/options.php:1978 includes/options.php:2010
+#: includes/options.php:2042 includes/options.php:2135
+#: includes/options.php:2167 includes/options.php:2199
+#: includes/options.php:2231
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr "Hover"
+
+#: lib/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr "Regular"
+
+#: lib/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Clear Gallery"
+
+#: lib/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Add/Edit Gallery"
+
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:183
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:184
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "Units"
+
+#: includes/options.php:776 includes/options.php:840 includes/options.php:1269
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:172
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr "Height"
+
+#: lib/redux/rgba/field_rgba.php:64
+#: lib/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr "Select Colour"
+
+#: lib/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr "Choose"
+
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "To "
+
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "From "
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr "Border style"
+
+#: includes/3rd/beaver/module.php:135 includes/3rd/elementor/module.php:118
+#: includes/options.php:466 includes/options.php:488
+#: lib/ReduxCore/inc/fields/border/field_border.php:159
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "Left"
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:152
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "Bottom"
+
+#: includes/3rd/beaver/module.php:137 includes/3rd/elementor/module.php:120
+#: includes/options.php:470 includes/options.php:496
+#: lib/ReduxCore/inc/fields/border/field_border.php:145
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "Right"
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:138
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Top"
+
+#: lib/ReduxCore/inc/fields/border/field_border.php:125
+#: lib/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "All"
+
+#: lib/redux/icons/field_icons.php:131
+#: lib/ReduxCore/inc/fields/background/field_background.php:314
+#: lib/ReduxCore/inc/fields/media/field_media.php:206
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:126
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "Upload"
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:277
+#: lib/ReduxCore/inc/fields/media/field_media.php:153
+msgid "No media selected"
+msgstr "No media selected"
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "Background Position"
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Background Size"
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "Background Origin"
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Background Clip"
+
+#: lib/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: lib/redux/rgba/field_rgba.php:44
+#: lib/ReduxCore/inc/fields/background/field_background.php:124
+#: lib/ReduxCore/inc/fields/color/field_color.php:73
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: lib/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr "Transparent"
+
+#: lib/ReduxCore/inc/class.redux_admin_notices.php:111
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: lib/ReduxCore/framework.php:4008
+msgid "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>share_icons</code> argument.  This is sample data.  Please change or remove this data before shipping your product."
+msgstr "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>share_icons</code> argument. This is sample data. Please change or remove this data before shipping your product."
+
+#: lib/ReduxCore/framework.php:3992
+msgid "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>admin_bar_links</code> argument.  This is sample data.  Please change or remove this data before shipping your product."
+msgstr "<strong>Redux Framework Notice: </strong>There are references to the Redux Framework support site in your config's <code>admin_bar_links</code> argument. This is sample data. Please change or remove this data before shipping your product."
+
+#: lib/ReduxCore/framework.php:2872
+msgid "Your panel has no fields. Nothing to save."
+msgstr "Your panel has no fields. Nothing to save."
+
+#: lib/ReduxCore/framework.php:2792
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr "Invalid user capability. Please reload the page and try again."
+
+#: lib/ReduxCore/framework.php:2783
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr "Invalid security credential. Please reload the page and try again."
+
+#: lib/redux/rgba/field_rgba.php:62 lib/ReduxCore/framework.php:1903
+msgid "Default"
+msgstr "Default"
+
+#: lib/ReduxCore/framework.php:1776
+msgid "Hints"
+msgstr "Hints"
+
+#: lib/ReduxCore/framework.php:1771
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear. They can be %d d by using the link below."
+
+#: lib/ReduxCore/framework.php:1767
+msgid "clicking"
+msgstr "clicking"
+
+#: lib/ReduxCore/framework.php:1765
+msgid "moving the mouse over"
+msgstr "moving the mouse over"
+
+#: lib/ReduxCore/framework.php:1759
+msgid "Disable"
+msgstr "Disable"
+
+#: lib/ReduxCore/framework.php:1754
+msgid "Enable"
+msgstr "Enable"
+
+#: includes/panel/options.php:20 lib/ReduxCore/framework.php:233
+#: lib/ReduxCore/framework.php:237
+msgid "Options"
+msgstr "Options"
+
+#: lib/ReduxCore/framework.php:229 lib/ReduxCore/inc/welcome/welcome.php:203
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: lib/ReduxCore/framework.php:229
+msgid "Options panel created using %1$s"
+msgstr "Options panel created using %1$s"
+
+#: lib/ReduxCore/core/panel.php:312
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+msgstr "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+
+#: lib/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr "warning(s) were found!"
+
+#: lib/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr "error(s) were found!"
+
+#: lib/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr "Settings have changed, you should save them!"
+
+#: lib/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr "Settings Saved!"
+
+#: lib/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr "Section Defaults Restored!"
+
+#: lib/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr "All Defaults Restored!"
+
+#: lib/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr "Settings Imported!"
+
+#: lib/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "Warning- This options panel will not work properly without JavaScript!"
+
+#: lib/ReduxCore/core/enqueue.php:505
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr "There was a problem with your action. Please try again or reload the page."
+
+#: lib/ReduxCore/core/enqueue.php:504
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "There was an error saving. Here is the result of your action:"
+
+#: lib/ReduxCore/core/enqueue.php:493
+msgid "Please Wait"
+msgstr "Please Wait"
+
+#: lib/ReduxCore/core/enqueue.php:476
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:691
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+
+#: lib/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Are you sure? Resetting will lose all custom values in this section."
+
+#: lib/ReduxCore/core/enqueue.php:460
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:690
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Are you sure? Resetting will lose all custom values."
+
+#: lib/ReduxCore/core/enqueue.php:452
+#: lib/ReduxCore/inc/extensions/customizer/extension_customizer.php:689
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "You have changes that are not saved. Would you like to save them now?"
+
+#: includes/icons.php:27
+msgid "Theme icons have been changed. Your options panel will be reloaded. %s."
+msgstr "Theme icons have been changed. Your options panel will be reloaded. %s."
+
+#: includes/frontend/walker/QuadMenuItemWidget.class.php:48
+msgid "Widget %s dosen't exists"
+msgstr "Widget %s doesn’t exists"
+
+#: includes/compiler.php:205
+msgid "File cant't been created : %1$s"
+msgstr "File cant't been created : %1$s"
+
+#: includes/compiler.php:201
+msgid "created"
+msgstr "created"
+
+#: includes/compiler.php:201
+msgid "updated"
+msgstr "updated"
+
+#: includes/compiler.php:201
+msgid "File has been %2$s : %1$s"
+msgstr "File has been %2$s : %1$s"
+
+#: includes/compiler.php:196
+msgid "Folder created : %1$s"
+msgstr "Folder created : %1$s"
+
+#: includes/compiler.php:184
+msgid "ReduxFramework is not installed"
+msgstr "ReduxFramework is not installed"
+
+#: includes/compiler.php:173
+msgid "Some style options have been changed. Your stylesheet will be compiled to reflect changes. %s."
+msgstr "Some style options have been changed. Your stylesheet will be compiled to reflect changes. %s."
+
+#: includes/compiler.php:115
+msgid "CSS is undefined."
+msgstr "CSS is undefined."
+
+#: includes/compiler.php:110
+msgid "Imports is undefined."
+msgstr "Imports is undefined."
+
+#: lib/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr "Cancel"
+
+#: lib/redux/icons/field_icons.php:165
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:149
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "Description"
+
+#. Plugin Name of the plugin
+#: includes/3rd/beaver/module.php:11
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:16
+#: includes/3rd/elementor/module.php:16 includes/3rd/elementor/module.php:38
+msgid "QuadMenu"
+msgstr "QuadMenu"
+
+#: includes/backend/walker/widgets.php:328
+msgid "Failed to add %s to %d"
+msgstr "Failed to add %s to %d"
+
+#: includes/backend/walker/widgets.php:257 lib/redux/icons/field_icons.php:49
+#: lib/redux/template/footer.tpl.php:59
+#: lib/redux/template/header_stickybar.tpl.php:13
+msgid "Save"
+msgstr "Save"
+
+#: includes/backend/walker/widgets.php:232
+msgid "Failed to load widget %s form in %d"
+msgstr "Failed to load widget %s form in %d"
+
+#: includes/backend/walker/defaults.php:49
+#: includes/backend/walker/widgets.php:176
+msgid "(Invalid)"
+msgstr "(Invalid)"
+
+#: includes/backend/walker/widgets.php:10
+#: includes/frontend/walker/QuadMenuItemWidget.class.php:58 quadmenu.php:119
+msgid "QuadMenu Widgets"
+msgstr "QuadMenu Widgets"
+
+#: includes/backend/walker/mega.php:19
+msgid "Columns"
+msgstr "Columns"
+
+#: includes/backend/walker/columns.php:44
+#: lib/redux/template/header_stickybar.tpl.php:5
+#: lib/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr "Expand"
+
+#: includes/backend/walker/columns.php:43
+msgid "Contract"
+msgstr "Contract"
+
+#: includes/backend/settings.php:394
+msgid "Unknown field %s."
+msgstr "Unknown field %s."
+
+#: includes/backend/settings.php:346
+#: lib/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr "Size"
+
+#: includes/backend/settings.php:339
+msgid "Repeat"
+msgstr "Repeat"
+
+#: includes/backend/settings.php:325
+msgid "Position"
+msgstr "Position"
+
+#: includes/backend/settings.php:318 includes/backend/settings.php:379
+#: includes/backend/walker/columns.php:46
+#: includes/backend/walker/defaults.php:45
+#: includes/backend/walker/defaults.php:69
+#: includes/backend/walker/widgets.php:172
+#: includes/backend/walker/widgets.php:196 lib/redux/icons/field_icons.php:139
+#: lib/ReduxCore/inc/fields/background/field_background.php:321
+#: lib/ReduxCore/inc/fields/media/field_media.php:213
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: lib/ReduxCore/inc/fields/multi_text/field_multi_text.php:89
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:133
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Remove"
+
+#: includes/backend/settings.php:317 includes/backend/settings.php:378
+#: includes/backend/walker/columns.php:45
+#: includes/backend/walker/defaults.php:68
+#: includes/backend/walker/widgets.php:195
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/backend/settings.php:316 includes/backend/settings.php:377
+msgid "Select media image"
+msgstr "Select media image"
+
+#: includes/backend/settings.php:244
+msgid "Hidden"
+msgstr "Hidden"
+
+#: includes/backend/settings.php:220 includes/options.php:1236
+msgid "Offset"
+msgstr "Offset"
+
+#: includes/backend/settings.php:201 includes/backend/settings.php:226
+msgid "Inherit from smaller"
+msgstr "Inherit from smaller"
+
+#: includes/configuration.php:487
+msgid "Easy Digital Downloads Cart"
+msgstr "Easy Digital Downloads Basket"
+
+#: includes/configuration.php:486
+msgid "WooCommerce Cart"
+msgstr "WooCommerce Basket"
+
+#: includes/configuration.php:392
+msgid "Show featured image in wide size"
+msgstr "Show featured image in wide size"
+
+#: includes/configuration.php:391
+msgid "Show featured image in thumbnail size"
+msgstr "Show featured image in thumbnail size"
+
+#: includes/configuration.php:390
+msgid "Hide featured image"
+msgstr "Hide featured image"
+
+#: includes/configuration.php:385
+msgid "Show featured image"
+msgstr "Show featured image"
+
+#: includes/configuration.php:371
+msgid "Hide on screen sizes"
+msgstr "Hide on screen sizes"
+
+#: includes/configuration.php:364
+msgid "Float dropdown left"
+msgstr "Float dropdown left"
+
+#: includes/configuration.php:363
+msgid "Float dropdown right"
+msgstr "Float dropdown right"
+
+#: includes/configuration.php:359
+msgid "Float dropdown to left o right"
+msgstr "Float dropdown to left o right"
+
+#: includes/configuration.php:358
+msgid "Dropdown Float"
+msgstr "Dropdown Float"
+
+#: includes/configuration.php:351
+msgid "Float item opposite to default"
+msgstr "Float item opposite to default"
+
+#: includes/configuration.php:350
+msgid "Default item position"
+msgstr "Default item position"
+
+#: includes/configuration.php:345
+msgid "Float item to left or right"
+msgstr "Float item to left or right"
+
+#: includes/configuration.php:344 includes/options.php:462
+msgid "Float"
+msgstr "Float"
+
+#: includes/configuration.php:335 includes/options.php:1078
+#: includes/options.php:2029 includes/options.php:2218
+msgid "Badge"
+msgstr "Badge"
+
+#: includes/configuration.php:318
+msgid "Enter item subtitle"
+msgstr "Enter item subtitle"
+
+#: includes/configuration.php:317 includes/options.php:1042
+#: includes/options.php:1627 includes/options.php:1965
+#: includes/options.php:2154
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: includes/configuration.php:301
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "The description will be displayed in the menu if the current theme supports it."
+
+#: includes/configuration.php:292 includes/configuration.php:293
+msgid "Link Relationship (XFN)"
+msgstr "Link Relationship (XFN)"
+
+#: includes/configuration.php:283
+msgid "Open link in a new tab"
+msgstr "Open link in a new tab"
+
+#: includes/configuration.php:272 includes/configuration.php:273
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (optional)"
+
+#: includes/configuration.php:263 includes/configuration.php:264
+msgid "Title Attribute"
+msgstr "Title Attribute"
+
+#: includes/configuration.php:255
+msgid "Navigation Label"
+msgstr "Navigation Label"
+
+#: includes/configuration.php:245 includes/configuration.php:246
+#: lib/redux/icons/field_icons.php:169
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:153
+#: lib/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: includes/configuration.php:544
+msgid "Undefined default"
+msgstr "Undefined default"
+
+#: includes/configuration.php:149
+msgid "Include a widget inside column."
+msgstr "Include a widget inside column."
+
+#: includes/backend/walker/widgets.php:43 includes/configuration.php:141
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/configuration.php:140 includes/widget.php:24
+msgid "QuadMenu Widget"
+msgstr "QuadMenu Widget"
+
+#: includes/backend/walker/columns.php:157
+#: includes/backend/walker/columns.php:161
+#: includes/backend/walker/columns.php:167
+#: includes/backend/walker/columns.php:173
+#: includes/backend/walker/columns.php:180
+#: includes/backend/walker/columns.php:188
+#: includes/backend/walker/columns.php:198
+#: includes/backend/walker/columns.php:204
+#: includes/backend/walker/columns.php:211
+#: includes/backend/walker/columns.php:217 includes/configuration.php:132
+#: includes/configuration.php:133
+msgid "Column"
+msgstr "Column"
+
+#: includes/configuration.php:128
+msgid "A search form for the site."
+msgstr "A search form for the site."
+
+#: includes/configuration.php:115 includes/configuration.php:310
+#: includes/configuration.php:514
+#: includes/frontend/walker/QuadMenuItemSearch.class.php:17
+msgid "Search"
+msgstr "Search"
+
+#: includes/configuration.php:114
+msgid "QuadMenu Search"
+msgstr "QuadMenu Search"
+
+#: includes/configuration.php:108
+msgid "A cart widget for Woocommerce."
+msgstr "A basket widget for Woocommerce."
+
+#: includes/configuration.php:90 includes/configuration.php:103
+#: includes/configuration.php:482 includes/options.php:2061
+msgid "Cart"
+msgstr "Basket"
+
+#: includes/configuration.php:89
+msgid "QuadMenu Cart"
+msgstr "QuadMenu Basket"
+
+#: includes/configuration.php:85
+msgid "Just an icon, no title."
+msgstr "Just an icon, no title."
+
+#: includes/configuration.php:71
+msgid "QuadMenu Icon"
+msgstr "QuadMenu Icon"
+
+#: includes/configuration.php:65
+msgid "A menu which can wrap any type of widget."
+msgstr "A menu which can wrap any type of widget."
+
+#: includes/configuration.php:55 includes/options.php:686
+#: includes/options.php:856 includes/options.php:932 includes/options.php:960
+#: includes/options.php:1098 includes/options.php:1127
+#: includes/options.php:1149 includes/options.php:1200
+#: includes/options.php:1253 includes/options.php:1466
+#: includes/options.php:1517 includes/options.php:1683
+#: includes/options.php:1709 includes/options.php:1745
+#: includes/options.php:1795
+msgid "Background"
+msgstr "Background"
+
+#: includes/3rd/beaver/module.php:162
+#: includes/3rd/divi/modules/QuadMenu/QuadMenu.php:27
+#: includes/3rd/elementor/module.php:148 includes/backend/settings.php:188
+#: includes/configuration.php:60 includes/options.php:535
+#: includes/options.php:788
+#: lib/ReduxCore/inc/fields/dimensions/field_dimensions.php:156
+msgid "Width"
+msgstr "Width"
+
+#: includes/backend/settings.php:263 includes/configuration.php:50
+#: includes/configuration.php:72 includes/configuration.php:75
+#: includes/configuration.php:98 includes/configuration.php:123
+#: includes/configuration.php:164 includes/configuration.php:179
+#: includes/configuration.php:194 includes/configuration.php:221
+#: includes/options.php:1006 includes/options.php:1013
+#: includes/options.php:1591 includes/options.php:1598
+#: includes/options.php:1997 includes/options.php:2186
+#: lib/redux/icons/field_icons.php:157
+msgid "Icon"
+msgstr "Icon"
+
+#: includes/3rd/beaver/module.php:82 includes/configuration.php:45
+#: includes/configuration.php:80 includes/configuration.php:93
+#: includes/configuration.php:118 includes/configuration.php:144
+#: includes/configuration.php:159 includes/configuration.php:174
+#: includes/configuration.php:189 includes/configuration.php:216
+#: includes/options.php:1818
+msgid "General"
+msgstr "General"
+
+#: includes/configuration.php:42
+msgid "Mega"
+msgstr "Mega"
+
+#: includes/configuration.php:41
+msgid "QuadMenu Mega"
+msgstr "QuadMenu Mega"
+
+#: includes/backend/ajax.php:530
+msgid "Saved settings of %s."
+msgstr "Saved settings of %s."
+
+#: includes/backend/ajax.php:524 includes/backend/ajax.php:535
+msgid "Can't save settings of %s."
+msgstr "Can't save settings of %s."
+
+#: includes/backend/ajax.php:455
+msgid "Can't load settings of %s."
+msgstr "Can't load settings of %s."
+
+#: includes/backend/ajax.php:439
+msgid "Saving"
+msgstr "Saving"
+
+#: includes/backend/ajax.php:412
+msgid "Updated items %s."
+msgstr "Updated items %s."
+
+#: includes/backend/ajax.php:350
+msgid "Removed items %s."
+msgstr "Removed items %s."
+
+#: includes/backend/ajax.php:331
+msgid "Failed to add %s. Has to be child of %s"
+msgstr "Failed to add %s. Has to be child of %s"
+
+#: includes/backend/ajax.php:324
+msgid "Failed to add %s. Only can be placed on the main menu."
+msgstr "Failed to add %s. Only can be placed on the main menu."
+
+#: includes/backend/ajax.php:316
+msgid "Failed to add %s. Is not registered in QuadMenu Items."
+msgstr "Failed to add %s. Is not registered in QuadMenu Items."
+
+#: includes/backend/ajax.php:263
+msgid "Failed to add %s"
+msgstr "Failed to add %s"
+
+#: includes/backend/ajax.php:243
+msgid "Class %s don't exists."
+msgstr "Class %s don't exists."
+
+#: includes/backend/ajax.php:206 includes/backend/ajax.php:415
+msgid "Undefined menu-item var."
+msgstr "Undefined menu-item var."
+
+#: includes/backend/ajax.php:116 includes/backend/ajax.php:164
+#: includes/backend/walker/widgets.php:71
+msgid "Add to Menu"
+msgstr "Add to Menu"
+
+#: includes/backend/ajax.php:34
+msgid "QuadMenu Items"
+msgstr "QuadMenu Items"
+
+#. Plugin URI of the plugin
+msgid "https://quadmenu.com"
+msgstr "https://quadmenu.com"

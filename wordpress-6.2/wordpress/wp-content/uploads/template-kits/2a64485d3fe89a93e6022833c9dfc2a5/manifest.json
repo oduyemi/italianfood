@@ -1,0 +1,1381 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Winery",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Wines",
+            "screenshot": "screenshots\/wines.jpg",
+            "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Wines 2",
+            "screenshot": "screenshots\/wines-2-pro.jpg",
+            "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Winery 1",
+            "screenshot": "screenshots\/winery-1.jpg",
+            "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Winery 2",
+            "screenshot": "screenshots\/winery-2.jpg",
+            "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Process",
+            "screenshot": "screenshots\/our-process.jpg",
+            "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "History",
+            "screenshot": "screenshots\/history.jpg",
+            "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-3efffa15d3c5f018674f982f5eeac36c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Winemakers",
+            "screenshot": "screenshots\/winemakers.jpg",
+            "source": "templates\/winemakers-d993ff076f1c4281aafb7cb7d66c41fb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation (Pro)",
+            "screenshot": "screenshots\/reservation-pro-.jpg",
+            "source": "templates\/reservation-pro-44e6e0d12e13f255ad53888b5230304f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-a40cfe0c84ed47cc5d45273479bbf647.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact (Pro)",
+            "screenshot": "screenshots\/contact-pro-.jpg",
+            "source": "templates\/contact-pro-16c70dc4774ac36e2c7964f3941bc8fd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-123f8ec7042e269f06ad5de05c213f8f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon (Pro)",
+            "screenshot": "screenshots\/coming-soon-pro-.jpg",
+            "source": "templates\/coming-soon-pro-900d3c6a2b9be61bcca0ed0c7163c403.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Subscribe (Pro)",
+            "screenshot": "screenshots\/subscribe-pro-.jpg",
+            "source": "templates\/subscribe-pro-288e7cd08b317350527956a56b09eca3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-0b68092904267ef3df71aaff7c310087.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "photo-1523741543316-beb7fc7023d8.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1523741543316-beb7fc7023d8.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                },
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/winemakers-d993ff076f1c4281aafb7cb7d66c41fb.json",
+                    "name": "Winemakers"
+                },
+                {
+                    "source": "templates\/reservation-pro-44e6e0d12e13f255ad53888b5230304f.json",
+                    "name": "Reservation (Pro)"
+                },
+                {
+                    "source": "templates\/subscribe-pro-288e7cd08b317350527956a56b09eca3.json",
+                    "name": "Subscribe (Pro)"
+                }
+            ],
+            "filesize": 1141245,
+            "dimensions": [
+                1834,
+                2751
+            ]
+        },
+        {
+            "filename": "pexels-photo-1420695.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-1420695-500x335.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 478765,
+            "dimensions": [
+                1920,
+                1285
+            ]
+        },
+        {
+            "filename": "photo-1510267222691-b90c3f0494d6-1.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1510267222691-b90c3f0494d6-1.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+                    "name": "Wines"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                },
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                },
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 320406,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "pexels-photo-442969.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-442969-500x302.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                },
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                }
+            ],
+            "filesize": 480412,
+            "dimensions": [
+                1920,
+                1161
+            ]
+        },
+        {
+            "filename": "photo-1519671845924-1fd18db430b8.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1519671845924-1fd18db430b8.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                },
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                },
+                {
+                    "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+                    "name": "Winery 2"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/winemakers-d993ff076f1c4281aafb7cb7d66c41fb.json",
+                    "name": "Winemakers"
+                },
+                {
+                    "source": "templates\/reservation-pro-44e6e0d12e13f255ad53888b5230304f.json",
+                    "name": "Reservation (Pro)"
+                }
+            ],
+            "filesize": 1194955,
+            "dimensions": [
+                1904,
+                2709
+            ]
+        },
+        {
+            "filename": "photo-1464036388609-747537735eab.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1464036388609-747537735eab.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                },
+                {
+                    "source": "templates\/faq-3efffa15d3c5f018674f982f5eeac36c.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 347581,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "wine-bottle.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/wine-bottle.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/popup-0b68092904267ef3df71aaff7c310087.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 3350,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "grapes.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/grapes.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                }
+            ],
+            "filesize": 10079,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "menu.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/menu.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                }
+            ],
+            "filesize": 5306,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "wine.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/wine.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                }
+            ],
+            "filesize": 5108,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "berries.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/berries.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4cfdd5ceaa28605868cfcc306994f125.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                }
+            ],
+            "filesize": 862023,
+            "dimensions": [
+                1834,
+                2751
+            ]
+        },
+        {
+            "filename": "wine-2700090_1920.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/wine-2700090_1920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+                    "name": "Wines"
+                }
+            ],
+            "filesize": 589674,
+            "dimensions": [
+                1920,
+                1755
+            ]
+        },
+        {
+            "filename": "wine-2700086_1920.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/wine-2700086_1920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+                    "name": "Wines"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                }
+            ],
+            "filesize": 543002,
+            "dimensions": [
+                1920,
+                1746
+            ]
+        },
+        {
+            "filename": "wine-2700091_1920.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/wine-2700091_1920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+                    "name": "Wines"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                }
+            ],
+            "filesize": 541286,
+            "dimensions": [
+                1920,
+                1717
+            ]
+        },
+        {
+            "filename": "wine-2700089_1920.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/wine-2700089_1920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+                    "name": "Wines"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                }
+            ],
+            "filesize": 664450,
+            "dimensions": [
+                1920,
+                1759
+            ]
+        },
+        {
+            "filename": "photo-1469533802599-76ee5be68f7d.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1469533802599-76ee5be68f7d.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 587325,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "photo-1504279577054-acfeccf8fc52.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1504279577054-acfeccf8fc52.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 465216,
+            "dimensions": [
+                1867,
+                1400
+            ]
+        },
+        {
+            "filename": "photo-1475378902367-dc8f9eae83e8.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1475378902367-dc8f9eae83e8.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-cdaa12f59a3d188626ae72c814b2236e.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+                    "name": "Winery 2"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                }
+            ],
+            "filesize": 311183,
+            "dimensions": [
+                1826,
+                1460
+            ]
+        },
+        {
+            "filename": "pexels-photo-1370391.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-1370391-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                },
+                {
+                    "source": "templates\/contact-a40cfe0c84ed47cc5d45273479bbf647.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 407698,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "restaurant-alcohol-bar-drinks.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/restaurant-alcohol-bar-drinks-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+                    "name": "Winery 2"
+                }
+            ],
+            "filesize": 421738,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "photo-1527793172007-f11b58722aae-1.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1527793172007-f11b58722aae-1.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+                    "name": "Winery 2"
+                }
+            ],
+            "filesize": 409759,
+            "dimensions": [
+                1951,
+                1300
+            ]
+        },
+        {
+            "filename": "photo-1519671482749-fd09be7ccebf.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1519671482749-fd09be7ccebf.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                },
+                {
+                    "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+                    "name": "Winery 2"
+                },
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 247506,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "pexels-photo-62330.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-62330-500x332.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 141758,
+            "dimensions": [
+                1920,
+                1276
+            ]
+        },
+        {
+            "filename": "pexels-photo-107556.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-107556-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-7544c8bb892b33c21856435c76dda03e.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                },
+                {
+                    "source": "templates\/popup-0b68092904267ef3df71aaff7c310087.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 274720,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "play-btn.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/play-btn.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+                    "name": "Winery 2"
+                }
+            ],
+            "filesize": 2875,
+            "dimensions": [
+                121,
+                121
+            ]
+        },
+        {
+            "filename": "pexels-photo-87224.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-87224-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 296648,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "photo-1536006587955-2cc22e1df713.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1536006587955-2cc22e1df713.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 601522,
+            "dimensions": [
+                2134,
+                3201
+            ]
+        },
+        {
+            "filename": "photo-1520013857860-67b16ca68ff6.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1520013857860-67b16ca68ff6.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/winemakers-d993ff076f1c4281aafb7cb7d66c41fb.json",
+                    "name": "Winemakers"
+                }
+            ],
+            "filesize": 1393734,
+            "dimensions": [
+                2134,
+                3201
+            ]
+        },
+        {
+            "filename": "photo-1520903214476-57060aabb71d.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1520903214476-57060aabb71d.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-d4edcd5298439d19aea2e75e55b3edb4.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 861076,
+            "dimensions": [
+                2134,
+                3201
+            ]
+        },
+        {
+            "filename": "photo-1487980359585-fc92bf3fb9a7.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1487980359585-fc92bf3fb9a7.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+                    "name": "Wines"
+                },
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                }
+            ],
+            "filesize": 897013,
+            "dimensions": [
+                2134,
+                3202
+            ]
+        },
+        {
+            "filename": "photo-1513638833238-3c89a39aa49f-1.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1513638833238-3c89a39aa49f-1.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/wines-f75a13677c14756adf98909fc6120e92.json",
+                    "name": "Wines"
+                }
+            ],
+            "filesize": 662549,
+            "dimensions": [
+                1834,
+                2751
+            ]
+        },
+        {
+            "filename": "photo-1507040077794-49ccfb573859-1.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1507040077794-49ccfb573859-1.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/wines-2-1a6b7db074af74ea0028c86eccf2365c.json",
+                    "name": "Wines 2"
+                },
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                }
+            ],
+            "filesize": 343312,
+            "dimensions": [
+                2016,
+                1236
+            ]
+        },
+        {
+            "filename": "photo-1504205125969-3a30757d74eb.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1504205125969-3a30757d74eb.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                }
+            ],
+            "filesize": 537165,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "tt5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/tt5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/winery-1-c8b5388b5ded22b5f4fc9fb0651aad98.json",
+                    "name": "Winery 1"
+                },
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                }
+            ],
+            "filesize": 1158021,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "photo-1502285254372-2cb4d1b0993b.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1502285254372-2cb4d1b0993b.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/winery-2-24066a649dc868963b92116a3bc20ddc.json",
+                    "name": "Winery 2"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                },
+                {
+                    "source": "templates\/subscribe-pro-288e7cd08b317350527956a56b09eca3.json",
+                    "name": "Subscribe (Pro)"
+                }
+            ],
+            "filesize": 776320,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "12-Clever-Creative-Minimal-Logo-Designs-Rattis-Books-by-The-Counter-Press-BPO-1024x682.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/12-Clever-Creative-Minimal-Logo-Designs-Rattis-Books-by-The-Counter-Press-BPO-1024x682.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 32249,
+            "dimensions": [
+                1024,
+                682
+            ]
+        },
+        {
+            "filename": "01-Creative-Minimal-Logo-Design-Pikseli-Werklig-BPO.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/01-Creative-Minimal-Logo-Design-Pikseli-Werklig-BPO.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 39071,
+            "dimensions": [
+                900,
+                600
+            ]
+        },
+        {
+            "filename": "15-Clever-Creative-Minimal-Logo-Designs-Motion-Music-by-Face-Creative-BPO-1024x679.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/15-Clever-Creative-Minimal-Logo-Designs-Motion-Music-by-Face-Creative-BPO-1024x679.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 28439,
+            "dimensions": [
+                1024,
+                679
+            ]
+        },
+        {
+            "filename": "09-Clever-Creative-Minimal-Logo-Designs-ArtRabbit-by-Bond-BPO-1024x682.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/09-Clever-Creative-Minimal-Logo-Designs-ArtRabbit-by-Bond-BPO-1024x682.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 51636,
+            "dimensions": [
+                1024,
+                682
+            ]
+        },
+        {
+            "filename": "11-Clever-Creative-Minimal-Logo-Designs-Research-In-Schools-by-Paul-Belford-Ltd-BPO-1024x682.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/11-Clever-Creative-Minimal-Logo-Designs-Research-In-Schools-by-Paul-Belford-Ltd-BPO-1024x682.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 30277,
+            "dimensions": [
+                1024,
+                682
+            ]
+        },
+        {
+            "filename": "01-Creative-Minimal-L2ogo-Design-Pikseli-Werklig-BPO.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/01-Creative-Minimal-L2ogo-Design-Pikseli-Werklig-BPO.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 49833,
+            "dimensions": [
+                900,
+                600
+            ]
+        },
+        {
+            "filename": "01-Creative-Minimal-Logo-Des2ign-Pikseli-Werklig-BPO.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/01-Creative-Minimal-Logo-Des2ign-Pikseli-Werklig-BPO.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-0d8c301538c2bf410b0944ab331c200d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 57597,
+            "dimensions": [
+                900,
+                600
+            ]
+        },
+        {
+            "filename": "photo-1491349174775-aaafddd81942.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1491349174775-aaafddd81942.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/winemakers-d993ff076f1c4281aafb7cb7d66c41fb.json",
+                    "name": "Winemakers"
+                }
+            ],
+            "filesize": 1119249,
+            "dimensions": [
+                2134,
+                3202
+            ]
+        },
+        {
+            "filename": "photo-1480271139816-82697fd000cc.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1480271139816-82697fd000cc.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/winemakers-d993ff076f1c4281aafb7cb7d66c41fb.json",
+                    "name": "Winemakers"
+                }
+            ],
+            "filesize": 271488,
+            "dimensions": [
+                1951,
+                1300
+            ]
+        },
+        {
+            "filename": "photo-1533020526224-d25161732a15.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1533020526224-d25161732a15.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                },
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 1568768,
+            "dimensions": [
+                1764,
+                3136
+            ]
+        },
+        {
+            "filename": "wine-winery-burgundy-rioja-48848.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/wine-winery-burgundy-rioja-48848-500x380.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/our-process-0dd29d01cf37646e553e7d828393c26c.json",
+                    "name": "Our Process"
+                }
+            ],
+            "filesize": 738860,
+            "dimensions": [
+                1920,
+                1461
+            ]
+        },
+        {
+            "filename": "photo-1502285406557-e8f00810e0e1.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1502285406557-e8f00810e0e1.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 607259,
+            "dimensions": [
+                1834,
+                2751
+            ]
+        },
+        {
+            "filename": "pexels-photo-110822.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-110822-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/history-2defc50cb9e0b586b915fcf34f61be0c.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 702032,
+            "dimensions": [
+                1920,
+                1277
+            ]
+        },
+        {
+            "filename": "pexels-photo-1323596.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/pexels-photo-1323596-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon-123f8ec7042e269f06ad5de05c213f8f.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/subscribe-pro-288e7cd08b317350527956a56b09eca3.json",
+                    "name": "Subscribe (Pro)"
+                }
+            ],
+            "filesize": 214456,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "photo-1504205125969-3a30757d74eb-1.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-98\/wp-content\/uploads\/sites\/89\/2018\/09\/photo-1504205125969-3a30757d74eb-1.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon-pro-900d3c6a2b9be61bcca0ed0c7163c403.json",
+                    "name": "Coming Soon (Pro)"
+                }
+            ],
+            "filesize": 537165,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        }
+    ]
+}

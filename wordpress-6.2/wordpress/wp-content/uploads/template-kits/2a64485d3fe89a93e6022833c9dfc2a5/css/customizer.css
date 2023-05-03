@@ -1,0 +1,46 @@
+/* Kit 98 Custom Styles - apply under Advanced to the element they affect */
+/* Subheading side line */
+.envato-kit-98-line-before .elementor-heading-title:before {
+	  content: '';
+	  border-bottom: 1px solid;
+    width: 48px;
+    height: 1px;
+    margin-right: 11px;
+    display: inline-block;
+    margin-bottom: 3px;
+    opacity: .6;
+}
+/* Subheading lines on both sides */
+.envato-kit-98-line-sides .elementor-heading-title:before {
+	  content: '';
+	  border-bottom: 1px solid;
+    width: 48px;
+    height: 1px;
+    margin-right: 11px;
+    display: inline-block;
+    margin-bottom: 3px;
+    opacity: .6;
+}
+.envato-kit-98-line-sides .elementor-heading-title:after {
+	  content: '';
+	  border-bottom: 1px solid;
+    width: 48px;
+    height: 1px;
+    margin-left: 11px;
+    display: inline-block;
+    margin-bottom: 3px;
+    opacity: .6;
+}
+/* Slider overlay */
+.envato-kit-98-overlay .elementor-background-overlay{
+   background: linear-gradient(to right, rgba(255,255,255,.1) 20%,rgba(255,255,255,1) 100%);
+   mix-blend-mode: unset !important;
+}
+/* Typography */
+.envato-kit-98-link a {
+	color: #878787;
+}
+
+.envato-kit-98-link a:hover {
+	border-bottom: 1px dashed;
+}

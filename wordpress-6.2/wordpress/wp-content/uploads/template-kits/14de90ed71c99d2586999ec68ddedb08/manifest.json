@@ -1,0 +1,1247 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Recipe",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2-pro.jpg",
+            "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5-pro.jpg",
+            "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me-pro.jpg",
+            "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Me 2",
+            "screenshot": "screenshots\/about-me-2.jpg",
+            "source": "templates\/about-me-2-1cbbd4803fa0919a109717db06f24e21.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me 3",
+            "screenshot": "screenshots\/about-me-3.jpg",
+            "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Recipe 1",
+            "screenshot": "screenshots\/recipe-1-pro.jpg",
+            "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Recipe 2",
+            "screenshot": "screenshots\/recipe-2.jpg",
+            "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Recipe 3",
+            "screenshot": "screenshots\/recipe-3.jpg",
+            "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Recipes 1",
+            "screenshot": "screenshots\/recipes-1-pro.jpg",
+            "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Recipes 2",
+            "screenshot": "screenshots\/recipes-2.jpg",
+            "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-ffd0e6b16be3a03dd3f9164d86564e0e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2-pro.jpg",
+            "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-ffec822d8a6c17eefcd9449f846d459d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "antioxidant-background-berries-988865.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/antioxidant-background-berries-988865-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                }
+            ],
+            "filesize": 456315,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "pexels-photo-1095550.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/pexels-photo-1095550-500x498.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                }
+            ],
+            "filesize": 716345,
+            "dimensions": [
+                807,
+                804
+            ]
+        },
+        {
+            "filename": "wavy-dots.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/wavy-dots.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-me-2-1cbbd4803fa0919a109717db06f24e21.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                },
+                {
+                    "source": "templates\/contact-1-ffd0e6b16be3a03dd3f9164d86564e0e.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 50765,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "brooke-lark-250695-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/brooke-lark-250695-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                }
+            ],
+            "filesize": 114902,
+            "dimensions": [
+                700,
+                467
+            ]
+        },
+        {
+            "filename": "pixzolo-photography-699086-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pixzolo-photography-699086-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                }
+            ],
+            "filesize": 342889,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "wave.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/wave.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-me-2-1cbbd4803fa0919a109717db06f24e21.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                },
+                {
+                    "source": "templates\/contact-1-ffd0e6b16be3a03dd3f9164d86564e0e.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 2958,
+            "dimensions": [
+                19,
+                6
+            ]
+        },
+        {
+            "filename": "berries-blueberries-bread-708488.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/berries-blueberries-bread-708488-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                }
+            ],
+            "filesize": 428181,
+            "dimensions": [
+                2000,
+                1333
+            ]
+        },
+        {
+            "filename": "pexels-photo-1162540.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-1162540-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                }
+            ],
+            "filesize": 232268,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "chili-colors-cuisine-1194431.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/chili-colors-cuisine-1194431-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                },
+                {
+                    "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 744287,
+            "dimensions": [
+                2448,
+                3264
+            ]
+        },
+        {
+            "filename": "assorted-assortment-background-1011337.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/assorted-assortment-background-1011337-500x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                },
+                {
+                    "source": "templates\/contact-1-ffd0e6b16be3a03dd3f9164d86564e0e.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 377431,
+            "dimensions": [
+                2500,
+                1692
+            ]
+        },
+        {
+            "filename": "pexels-photo-1171170.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-1171170-500x348.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                }
+            ],
+            "filesize": 222453,
+            "dimensions": [
+                1280,
+                891
+            ]
+        },
+        {
+            "filename": "bowl-cherries-chicken-936611.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/bowl-cherries-chicken-936611-500x348.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-119a36ac62d12c27ee8e22b51746be18.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                },
+                {
+                    "source": "templates\/contact-1-ffd0e6b16be3a03dd3f9164d86564e0e.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 354756,
+            "dimensions": [
+                1838,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-940302.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-940302-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 207168,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "ben-kolde-652851-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/ben-kolde-652851-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                }
+            ],
+            "filesize": 22284,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "pexels-photo-699953-trans.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-699953-trans-500x454.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 1337571,
+            "dimensions": [
+                1200,
+                1089
+            ]
+        },
+        {
+            "filename": "plate-white-fish-chilli.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/plate-white-fish-chilli-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                }
+            ],
+            "filesize": 137635,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "dessert-milk-product-delicious-sweet-167840.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/dessert-milk-product-delicious-sweet-167840-500x375.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                }
+            ],
+            "filesize": 126207,
+            "dimensions": [
+                1280,
+                960
+            ]
+        },
+        {
+            "filename": "pexels-photo-61180.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-61180-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                }
+            ],
+            "filesize": 178600,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-photo-699953.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-699953-500x454.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 605043,
+            "dimensions": [
+                1920,
+                1742
+            ]
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e851fa611a5ac392f48c837730002f74.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-me-2-1cbbd4803fa0919a109717db06f24e21.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                }
+            ],
+            "filesize": 69223,
+            "dimensions": [
+                800,
+                549
+            ]
+        },
+        {
+            "filename": "pexels-photo-1036623.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/pexels-photo-1036623-500x334.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-me-bc3a0803ab16aaa7eec2657e855b6089.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-me-2-1cbbd4803fa0919a109717db06f24e21.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-d33b1b5692a926c9a3ec0aa241516937.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                },
+                {
+                    "source": "templates\/contact-1-ffd0e6b16be3a03dd3f9164d86564e0e.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 68209,
+            "dimensions": [
+                1280,
+                854
+            ]
+        },
+        {
+            "filename": "monika-grabkowska-759473-unsplash_02.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/monika-grabkowska-759473-unsplash_02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-93ecb8921b76cb2c1d8a279b14723da4.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                }
+            ],
+            "filesize": 328626,
+            "dimensions": [
+                1200,
+                967
+            ]
+        },
+        {
+            "filename": "pexels-photo-405031.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-405031-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-me-2-1cbbd4803fa0919a109717db06f24e21.json",
+                    "name": "About Me 2"
+                }
+            ],
+            "filesize": 194843,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "abstract-art-cooking-262896.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/abstract-art-cooking-262896-500x747.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/contact-2-387647977e1f6afff15f2712551ef5b1.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 1115911,
+            "dimensions": [
+                2592,
+                3872
+            ]
+        },
+        {
+            "filename": "pexels-photo-940301.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-940301-500x349.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-2beb803b1a23e598e3a367685137d84c.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 133490,
+            "dimensions": [
+                1920,
+                1339
+            ]
+        },
+        {
+            "filename": "abstract-background-blue-1056563.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/abstract-background-blue-1056563-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-e3792d20d6d48e919cec1d3a5c07f071.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 391127,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "board-close-up-cooking-1446270.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/board-close-up-cooking-1446270-500x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                }
+            ],
+            "filesize": 80141,
+            "dimensions": [
+                640,
+                458
+            ]
+        },
+        {
+            "filename": "breakfast-cooking-cuisine-1054273.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/breakfast-cooking-cuisine-1054273-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                }
+            ],
+            "filesize": 59878,
+            "dimensions": [
+                640,
+                426
+            ]
+        },
+        {
+            "filename": "heather-schwartz-493945-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/heather-schwartz-493945-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                }
+            ],
+            "filesize": 33204,
+            "dimensions": [
+                400,
+                600
+            ]
+        },
+        {
+            "filename": "carrot-cooking-cutting-board-60123.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/carrot-cooking-cutting-board-60123-500x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                }
+            ],
+            "filesize": 62658,
+            "dimensions": [
+                640,
+                424
+            ]
+        },
+        {
+            "filename": "cleaning-cooking-hands-545013.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/cleaning-cooking-hands-545013-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                },
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                }
+            ],
+            "filesize": 36923,
+            "dimensions": [
+                640,
+                427
+            ]
+        },
+        {
+            "filename": "close-up-cooking-dinner-46239.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/close-up-cooking-dinner-46239-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-1-012d4dd78eab86820ad8e6d4486e277a.json",
+                    "name": "Recipe 1"
+                },
+                {
+                    "source": "templates\/recipe-2-905cb315895c36f9772942c4bc20d4e7.json",
+                    "name": "Recipe 2"
+                }
+            ],
+            "filesize": 168604,
+            "dimensions": [
+                1280,
+                960
+            ]
+        },
+        {
+            "filename": "appetizer-bowl-bread-1580467.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/10\/appetizer-bowl-bread-1580467-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                }
+            ],
+            "filesize": 49718,
+            "dimensions": [
+                640,
+                426
+            ]
+        },
+        {
+            "filename": "mark-deyoung-753346-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/mark-deyoung-753346-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipe-3-ba26a761ffb20c0c9863525cfe95b97c.json",
+                    "name": "Recipe 3"
+                },
+                {
+                    "source": "templates\/recipes-1-c1006361ff7f1f455a83595d4e126193.json",
+                    "name": "Recipes 1"
+                }
+            ],
+            "filesize": 39884,
+            "dimensions": [
+                400,
+                267
+            ]
+        },
+        {
+            "filename": "brooke-lark-497581-unsplash_01.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/brooke-lark-497581-unsplash_01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                }
+            ],
+            "filesize": 39411,
+            "dimensions": [
+                400,
+                268
+            ]
+        },
+        {
+            "filename": "pexels-photo-1211887.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-75\/wp-content\/uploads\/sites\/78\/2018\/09\/pexels-photo-1211887-500x512.png",
+            "templates": [
+                {
+                    "source": "templates\/recipes-2-df364c8906a90bd8ce01b2b4933e7a1a.json",
+                    "name": "Recipes 2"
+                }
+            ],
+            "filesize": 778686,
+            "dimensions": [
+                800,
+                819
+            ]
+        }
+    ]
+}

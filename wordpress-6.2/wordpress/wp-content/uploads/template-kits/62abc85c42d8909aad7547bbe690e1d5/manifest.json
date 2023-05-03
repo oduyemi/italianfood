@@ -1,0 +1,965 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Brewery",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tours",
+            "screenshot": "screenshots\/tours.jpg",
+            "source": "templates\/tours-12fb655e03ffd2d270fbde5b49eb3571.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Beers",
+            "screenshot": "screenshots\/beers.jpg",
+            "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Beer Single",
+            "screenshot": "screenshots\/beer-single.jpg",
+            "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers-4665df3c077e906968596cf207d0b30d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-6a2f08fbcb12d4c90de5e578290e98da.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-f566213a8dd1d8635f780c736c37fb53.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "frank-luca-c-fbj_fTFUM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/frank-luca-c-fbj_fTFUM-unsplash-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 336433,
+            "dimensions": [
+                1920,
+                1440
+            ]
+        },
+        {
+            "filename": "back-close-up-clouds-721999-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/back-close-up-clouds-721999-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/tours-12fb655e03ffd2d270fbde5b49eb3571.json",
+                    "name": "Tours"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                }
+            ],
+            "filesize": 96010,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "play.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/play.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/tours-12fb655e03ffd2d270fbde5b49eb3571.json",
+                    "name": "Tours"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                }
+            ],
+            "filesize": 4893,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "back-close-up-clouds-721999.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/back-close-up-clouds-721999-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 511290,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-7.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-7-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                },
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 306910,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-6.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-6-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                },
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 291915,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-2-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-e5721b95190d2b6cacbc76e8f6af897e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                },
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 381709,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "beer-blur-close-up-250465-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/beer-blur-close-up-250465-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 77598,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "taylor-leopold-pElM4yerF5Q-unsplash-cover.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/taylor-leopold-pElM4yerF5Q-unsplash-cover-500x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/tours-12fb655e03ffd2d270fbde5b49eb3571.json",
+                    "name": "Tours"
+                },
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                },
+                {
+                    "source": "templates\/careers-4665df3c077e906968596cf207d0b30d.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/contact-2-f566213a8dd1d8635f780c736c37fb53.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 2228160,
+            "dimensions": [
+                3000,
+                1600
+            ]
+        },
+        {
+            "filename": "ryan-hafey-i5n6WHtvQ4c-unsplash-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/ryan-hafey-i5n6WHtvQ4c-unsplash-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 120730,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "adult-alcohol-barrel-1370391-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/adult-alcohol-barrel-1370391-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 104281,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "blur-blurred-background-close-up-1579426-cover.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/blur-blurred-background-close-up-1579426-cover-500x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 1415017,
+            "dimensions": [
+                3000,
+                1600
+            ]
+        },
+        {
+            "filename": "adults-brewery-greyscale.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/adults-brewery-greyscale.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-3474dc5ca2bfcbfaeb12ebe36616947a.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 199137,
+            "dimensions": [
+                2560,
+                1970
+            ]
+        },
+        {
+            "filename": "agriculture-countryside-crop-2252618-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/agriculture-countryside-crop-2252618-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 115403,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "back-close-up-clouds-721999-v2-large.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/06\/back-close-up-clouds-721999-v2-large-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 811186,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "black-and-white-elderly-hat-160422-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/06\/black-and-white-elderly-hat-160422-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 103646,
+            "dimensions": [
+                457,
+                300
+            ]
+        },
+        {
+            "filename": "adult-blur-daytime-834863-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/06\/adult-blur-daytime-834863-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83947,
+            "dimensions": [
+                457,
+                300
+            ]
+        },
+        {
+            "filename": "adult-blur-business-woman-1181690-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/06\/adult-blur-business-woman-1181690-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 81848,
+            "dimensions": [
+                457,
+                300
+            ]
+        },
+        {
+            "filename": "adult-alcohol-barrel-1370391-demo.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/adult-alcohol-barrel-1370391-demo-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                }
+            ],
+            "filesize": 1624228,
+            "dimensions": [
+                3742,
+                2494
+            ]
+        },
+        {
+            "filename": "pexels-photo-442969-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/pexels-photo-442969-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-b13739491e3bf47d9c23ef76964fd13f.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 107727,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "allef-vinicius-QHvtBAYVcfw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/06\/allef-vinicius-QHvtBAYVcfw-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 1001726,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "elevate-D6IZR-YsDYw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/elevate-D6IZR-YsDYw-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 79877,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "giovanna-gomes-_8KV86shhPo-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/giovanna-gomes-_8KV86shhPo-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                }
+            ],
+            "filesize": 96220,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "elevate-iqHHaTNF3BI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/elevate-iqHHaTNF3BI-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 79409,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "alcoholic-beverage-alcoholic-drink-beer-1796698-g.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/alcoholic-beverage-alcoholic-drink-beer-1796698-g.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 91791,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "alcohol-alcoholic-beverage-bar-1089930-g.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/alcohol-alcoholic-beverage-bar-1089930-g.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 96141,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "adults-alcohol-alcoholic-beverage-1267351-g.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/adults-alcohol-alcoholic-beverage-1267351-g.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 104007,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "adult-beer-brewing-1267347-g.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/adult-beer-brewing-1267347-g.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 105797,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "abandoned-antique-broken-1457806-g.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2019\/07\/abandoned-antique-broken-1457806-g.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 145135,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "beer-chairs-dining-1095124-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/beer-chairs-dining-1095124-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 90887,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "beautiful-beauty-brown-eyes-1065084-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/beautiful-beauty-brown-eyes-1065084-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 101858,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "barrels-beer-close-up-1267359-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/barrels-beer-close-up-1267359-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 85540,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "alcohol-alcoholic-beverages-beer-1400255-v2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/alcohol-alcoholic-beverages-beer-1400255-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                }
+            ],
+            "filesize": 125202,
+            "dimensions": [
+                457,
+                304
+            ]
+        },
+        {
+            "filename": "bar-club-crowd-2420266.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/bar-club-crowd-2420266-500x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-7ae553e58437946f959c00149ac8db4b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-2-f566213a8dd1d8635f780c736c37fb53.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 682281,
+            "dimensions": [
+                3000,
+                1600
+            ]
+        },
+        {
+            "filename": "amie-johnson-VJXLzQi5TlE-unsplash-cover.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/amie-johnson-VJXLzQi5TlE-unsplash-cover-500x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tours-12fb655e03ffd2d270fbde5b49eb3571.json",
+                    "name": "Tours"
+                },
+                {
+                    "source": "templates\/careers-4665df3c077e906968596cf207d0b30d.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 2026360,
+            "dimensions": [
+                3000,
+                1600
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-1-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                },
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 379881,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-3.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-3-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                },
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 324237,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "beautiful-beauty-brown-eyes-1065084-tiny.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/beautiful-beauty-brown-eyes-1065084-tiny.jpg",
+            "templates": [
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                }
+            ],
+            "filesize": 87562,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "facial-hair-man-person-1073097-tiny.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/facial-hair-man-person-1073097-tiny.jpg",
+            "templates": [
+                {
+                    "source": "templates\/beers-55f24a7106a11472b621e9620a6fc129.json",
+                    "name": "Beers"
+                }
+            ],
+            "filesize": 84964,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "alcohol-alcoholic-beverages-beer-1400255-demo.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/alcohol-alcoholic-beverages-beer-1400255-demo-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                },
+                {
+                    "source": "templates\/contact-6a2f08fbcb12d4c90de5e578290e98da.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 1956718,
+            "dimensions": [
+                3742,
+                2494
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-4.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-4-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 274914,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-9.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-9-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 480437,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-5.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-5-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 300708,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "demo-bottle-cc0-10.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-12\/wp-content\/uploads\/sites\/15\/2018\/08\/demo-bottle-cc0-10-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/beer-single-c256624e54bcdf06803a1a76f85a4563.json",
+                    "name": "Beer Single"
+                }
+            ],
+            "filesize": 269171,
+            "dimensions": [
+                800,
+                800
+            ]
+        }
+    ]
+}
